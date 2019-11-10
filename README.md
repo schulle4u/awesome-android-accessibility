@@ -19,9 +19,18 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
 * Audible - 200.000 Hörbücher, Podcasts & Hörspiele  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.audible.application)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Audio Recorder - Audio-Dateien aufnehmen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
+  Lizenz: Kostenlos und Open Source.
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
+* Hi-Q MP3 Recorder  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
+  Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
+* Odyssey Musikplayer  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
+  Lizenz: Kostenlos und Open Source.
 * radio.de - Der Radioplayer für FM, DAB+ & Webradio   
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
   Lizenz: Kostenlos, enthält Werbung.
@@ -37,6 +46,24 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
 * Zattoo - TV Streaming App  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.zattoo.player)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+
+## Banking
+
+* PayPal - einfach Geld senden.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
+  Lizenz: Kostenlos
+* Sparkasse - Ihre mobile Filiale.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus)  
+  Lizenz: Kostenlos, enthält Werbung.
+
+## Browser
+
+* Mozilla Firefox  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox)  
+  Lizenz: Kostenlos und Open Source.
+* Microsoft Edge  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)  
+  Lizenz: Kostenlos.
 
 ## Büro
 
@@ -54,6 +81,9 @@ E-Mail, Kalender und Textverarbeitung.
 * Markor - Markdown-Editor.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor) oder [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor)  
   Lizenz: Kostenlos und Open Source.
+* Microsoft Outlook
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)  
+  Lizenz: Kostenlos, enthält Werbung.
 * Microsoft Word - Dokumente verfassen und bearbeiten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.word)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -79,17 +109,69 @@ Dateimanager und Dateisynchronisierung.
 
 Apps zur Verbesserung der Fitness und Kontrolle der Medikamenten-Einnahme. 
 
+* Arznei aktuell.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
+
 ## Hilfsmittel
 
-Speziell für Blinde und Sehbehinderte erstellte Apps. Text-, Objekt- und Farberkennung, Navigation, Sprachausgaben und Bildschirmleser. 
+Speziell für Blinde und Sehbehinderte entwickelte Apps. Text-, Objekt- und Farberkennung, Navigation, Sprachausgaben und Bildschirmleser. 
+
+* Blindo - benutzerdefinierte Labels für TalkBack.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
+  Lizenz: 14 Tage kostenlos, danach ist ein Abo notwendig.  
+* KNFB Reader - Dokumentenerkennung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
+  Lizenz: Kostenpflichtig.
+* TapTapSee
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
+  Lizenz: Kostenlos.
 
 ## Messenger
 
 Für den privaten Nachrichten-Austausch, direkt oder in Gruppenchats. 
 
+* Conversations - Jabber/XMPP-Client.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
+  Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* QKSMS - alternative SMS-App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS) oder [F-Droid](https://f-droid.org/de/packages/com.moez.QKSMS).  
+  Lizenz: Kostenlos und Open Source.
+* Signal - sicherer Messenger.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms).  
+  Lizenz: Kostenlos und Open Source.
+* Skype - kostenlose Chats und Videoanrufe.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider)  
+  Lizenz: Kostenlos, enthält Werbung.
+* Telegram - eine auf Geschwindigkeit und Sicherheit fokussierte Messaging-App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)  oder [F-Droid](https://f-droid.org/de/packages/org.telegram.messenger)  
+  Lizenz: Kostenlos und (teilweise) Open Source).
+* Threema  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ch.threema.app) oder [als APK im Threema-Shop](https://shop.threema.ch/).  
+  Lizenz: Kostenpflichtig.
+* WhatsApp Messenger  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)  
+  Lizenz: Kostenlos, Werbung angekündigt.
+
 ## Nachrichten
 
-Zeitungen und Magazine, News-Reader, Wetter. 
+Zeitungen und Magazine, News-Reader, Sport und Wetter. 
+
+* Handy News Reader - RSS-Leser mit Offline-Unterstützung für Artikel.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.yanus171.feedexfork) oder [F-Droid](https://f-droid.org/de/packages/ru.yanus171.feedexfork)  
+  Lizenz: Kostenlos und Open Source.
+* Toralarm Fußball-Bundesliga  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.eisterhues_media_2)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Wetter Online  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.wetteronline.wetterapp)
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Wetter.com - Wetter und Regenradar.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.wetter.androidclient)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 
 ## Navigation
 
@@ -97,7 +179,16 @@ Reisebegleiter und Navigations-Apps.
 
 ## Soziale Medien
 
-Twitter, Facebook und co. 
+Twitter, Facebook und co.
+
+## Shopping
+
+* Amazon Shopping  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping).  
+  Lizenz: Kostenlos, enthält Werbung.
+* eBay Kleinanzeigen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen)  
+  Lizenz: Kostenlos, enthält Werbung.
 
 ## Systemwerkzeuge
 
