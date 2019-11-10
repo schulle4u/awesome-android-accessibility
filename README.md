@@ -81,7 +81,7 @@ E-Mail, Kalender und Textverarbeitung.
 * Markor - Markdown-Editor.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor) oder [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor)  
   Lizenz: Kostenlos und Open Source.
-* Microsoft Outlook
+* Microsoft Outlook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)  
   Lizenz: Kostenlos, enthält Werbung.
 * Microsoft Word - Dokumente verfassen und bearbeiten.  
@@ -110,7 +110,7 @@ Dateimanager und Dateisynchronisierung.
 Apps zur Verbesserung der Fitness und Kontrolle der Medikamenten-Einnahme. 
 
 * Arznei aktuell.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 
 ## Hilfsmittel
@@ -126,7 +126,7 @@ Speziell für Blinde und Sehbehinderte entwickelte Apps. Text-, Objekt- und Farb
 * KNFB Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
-* TapTapSee
+* TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
 
@@ -167,7 +167,7 @@ Zeitungen und Magazine, News-Reader, Sport und Wetter.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.eisterhues_media_2)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Wetter Online  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.wetteronline.wetterapp)
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.wetteronline.wetterapp)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Wetter.com - Wetter und Regenradar.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.wetter.androidclient)  
