@@ -202,7 +202,7 @@ Reisebegleiter und Navigations-Apps.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * DB Barrierefrei - Reisebegleiter mit Infos zu Bahnhofsanzeigen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=db.barrierefrei)
+  Download: [Google Play](https://play.google.com/store/apps/details?id=db.barrierefrei)  
   Lizenz: Kostenlos.
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
