@@ -16,12 +16,24 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 
 Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen. 
 
+* AntennaPod - Podcasts verwalten und abspielen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
+  Lizenz: Kostenlos und Open Source.
+* ARD Audiothek  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
+  Lizenz: Kostenlos.
 * Audible - 200.000 Hörbücher, Podcasts & Hörspiele  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.audible.application)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Audio Recorder - Audio-Dateien aufnehmen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
   Lizenz: Kostenlos und Open Source.
+* BliBu - App der norddeutschen Blindenhörbücherei.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
+  Lizenz: Kostenlos.
+* DLF Audiothek - Live-Streams und ausgewählte Audiobeiträge der Programme des Deutschlandfunks.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek)  
+  Lizenz: Kostenlos.
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
@@ -37,6 +49,9 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
 * RadioDroid - Internet-Radio-Player mit Aufnahmefunktion, der die Datenbank von www.radio-browser.info verwendet.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2) oder [F-Droid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/)  
   Lizenz: Kostenlos und Open Source.
+* Receiver - das Internetradio.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
+  Lizenz: Kostenpflichtig.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
@@ -115,8 +130,11 @@ Apps zur Verbesserung der Fitness und Kontrolle der Medikamenten-Einnahme.
 
 ## Hilfsmittel
 
-Speziell für Blinde und Sehbehinderte entwickelte Apps. Text-, Objekt- und Farberkennung, Navigation, Sprachausgaben und Bildschirmleser. 
+Speziell für Blinde und Sehbehinderte entwickelte Apps bzw. Apps, die als Hilfsmittel dienen können. Text-, Objekt- und Farberkennung, Sprachausgaben und Bildschirmleser. 
 
+* Adobe Scan - PDF-Scanner und Texterkennung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.scan.android)  
+  Lizenz: Kostenlos.
 * Blindo - benutzerdefinierte Labels für TalkBack.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
@@ -128,6 +146,9 @@ Speziell für Blinde und Sehbehinderte entwickelte Apps. Text-, Objekt- und Farb
   Lizenz: Kostenpflichtig.
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
+  Lizenz: Kostenlos.
+* ViaOpta Daily - Objekt-, Bargeld- und Texterkennung, Lupe, Wettervorhersage und weiteres.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.viaopta.daily)  
   Lizenz: Kostenlos.
 
 ## Messenger
@@ -176,6 +197,28 @@ Zeitungen und Magazine, News-Reader, Sport und Wetter.
 ## Navigation
 
 Reisebegleiter und Navigations-Apps. 
+
+* AroundME - Geschäfte anhand der aktuellen Position auflisten.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* DB Barrierefrei - Reisebegleiter mit Infos zu Bahnhofsanzeigen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=db.barrierefrei)
+  Lizenz: Kostenlos.
+* DB Navigator  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
+  Lizenz: Kostenlos.
+* FlixBus - Fernbus durch Europa.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.flixbus.app)  
+  Lizenz: Kostenlos.
+* GetThere - GPS-Navigation für Blinde.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.LewLasher.getthere)  
+  Lizenz: Kostenlos.
+* Lazarillo - GPS für Blinde.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.lazarillo)  
+  Lizenz: Kostenlos.
+* ViaOpta Nav - Navigations-App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.novartis.blind)  
+  Lizenz: Kostenlos.
 
 ## Soziale Medien
 
