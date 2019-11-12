@@ -14,8 +14,6 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 
 ## Audio und Video
 
-Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen. 
-
 * AntennaPod - Podcasts verwalten und abspielen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
   Lizenz: Kostenlos und Open Source.
@@ -62,6 +60,7 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.zattoo.player)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 
+
 ## Banking
 
 * PayPal - einfach Geld senden.  
@@ -70,6 +69,7 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
 * Sparkasse - Ihre mobile Filiale.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus)  
   Lizenz: Kostenlos, enthält Werbung.
+
 
 ## Browser
 
@@ -80,9 +80,8 @@ Apps zur Musikwiedergabe, Hörbücher, Filme und Fernsehen.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)  
   Lizenz: Kostenlos.
 
-## Büro
 
-E-Mail, Kalender und Textverarbeitung. 
+## Büro
 
 * Adobe Acrobat Reader - PDF bearbeiten & erstellen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
@@ -103,9 +102,8 @@ E-Mail, Kalender und Textverarbeitung.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.word)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 
-## Dateiverwaltung
 
-Dateimanager und Dateisynchronisierung. 
+## Dateiverwaltung
 
 * Amaze File Manager - lokale Dateien verwalten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) oder [F-Droid](https://f-droid.org/de/packages/com.amaze.filemanager/)  
@@ -120,17 +118,15 @@ Dateimanager und Dateisynchronisierung.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) oder [F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 
-## Gesundheit
 
-Apps zur Verbesserung der Fitness und Kontrolle der Medikamenten-Einnahme. 
+## Gesundheit
 
 * Arznei aktuell.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 
-## Hilfsmittel
 
-Speziell für Blinde und Sehbehinderte entwickelte Apps bzw. Apps, die als Hilfsmittel dienen können. Text-, Objekt- und Farberkennung, Sprachausgaben und Bildschirmleser. 
+## Hilfsmittel
 
 * Adobe Scan - PDF-Scanner und Texterkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.scan.android)  
@@ -144,6 +140,12 @@ Speziell für Blinde und Sehbehinderte entwickelte Apps bzw. Apps, die als Hilfs
 * KNFB Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
+* QR & Barcode Scanner  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.gamma.scan)  
+  Lizenz: Kostenlos, enthält Werbung
+* SecScanQR Der QR-Code-Scanner/Generator, der sich um Privatsphäre kümmert.  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.t_dankworth.secscanqr/)  
+  Lizenz: Kostenlos und Open Source.
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
@@ -151,9 +153,8 @@ Speziell für Blinde und Sehbehinderte entwickelte Apps bzw. Apps, die als Hilfs
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.viaopta.daily)  
   Lizenz: Kostenlos.
 
-## Messenger
 
-Für den privaten Nachrichten-Austausch, direkt oder in Gruppenchats. 
+## Messenger
 
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
@@ -176,10 +177,12 @@ Für den privaten Nachrichten-Austausch, direkt oder in Gruppenchats.
 * WhatsApp Messenger  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)  
   Lizenz: Kostenlos, Werbung angekündigt.
+* Zello PTT Walkie Talkie  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.loudtalks)  
+  Lizenz: Kostenlos.
+
 
 ## Nachrichten
-
-Zeitungen und Magazine, News-Reader, Sport und Wetter. 
 
 * Handy News Reader - RSS-Leser mit Offline-Unterstützung für Artikel.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.yanus171.feedexfork) oder [F-Droid](https://f-droid.org/de/packages/ru.yanus171.feedexfork)  
@@ -194,9 +197,7 @@ Zeitungen und Magazine, News-Reader, Sport und Wetter.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.wetter.androidclient)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 
-## Navigation
-
-Reisebegleiter und Navigations-Apps. 
+## Navigation und Verkehr
 
 * AroundME - Geschäfte anhand der aktuellen Position auflisten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
@@ -220,9 +221,24 @@ Reisebegleiter und Navigations-Apps.
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.novartis.blind)  
   Lizenz: Kostenlos.
 
+
 ## Soziale Medien
 
-Twitter, Facebook und co.
+* AndStatus - Client für GNU social, Mastodon, Twitter und Pump.io.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.andstatus.app) oder [F-Droid](https://f-droid.org/de/packages/org.andstatus.app)  
+  Lizenz: Kostenlos und Open Source.
+* Facebook  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana)  
+  Lizenz: Kostenlos, enthält werbung und bieter In-App-Käufe an.
+* Tweetings for Twitter  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.dwdesign.tweetings)  
+  Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
+* Twitter  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.twitter.android)  
+  Lizenz: Kostenlos, enthält Werbung.
+* Tusky for Mastodon  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) oder [F-Droid](https://f-droid.org/de/packages/com.keylesspalace.tusky)  
+  Lizenz: Kostenlos und Open Source.
 
 ## Shopping
 
@@ -235,7 +251,9 @@ Twitter, Facebook und co.
 
 ## Systemwerkzeuge
 
-App-Stores, Launcher und sonstige Anpassungen. 
+* F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
+  Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
+  Lizenz: Kostenlos und Open Source.
 
 
 # Lizenz
