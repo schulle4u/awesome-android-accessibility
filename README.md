@@ -241,7 +241,7 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
   Lizenz: Kostenlos und Open Source.
 * Facebook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana)  
-  Lizenz: Kostenlos, enthält werbung und bieter In-App-Käufe an.
+  Lizenz: Kostenlos, enthält werbung und bietet In-App-Käufe an.
 * Tweetings for Twitter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.dwdesign.tweetings)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
