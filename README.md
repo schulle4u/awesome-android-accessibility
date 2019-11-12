@@ -1,65 +1,16 @@
 Für Blinde und Sehbehinderte zugängliche Android-Apps
 =====================================================
-Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistent, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers. 
+Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.  
 
 ## Hinweise
 
-1. Für die bestmögliche Zugänglichkeit empfiehlt es sich, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistent verfügbar (Ab TalkBack 6, Voice Assistent ab Android 9). 
+1. Für die bestmögliche Zugänglichkeit empfiehlt es sich, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistant verfügbar (Ab TalkBack 6, Voice Assistant ab Android 9). 
 2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nicht im Play Store verfügbar sind. Zur Installation solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
 3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich überwiegend auf Apps von Drittanbietern.
 
 # App-Liste
-
-## Audio und Video
-
-* AntennaPod - Podcasts verwalten und abspielen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
-  Lizenz: Kostenlos und Open Source.
-* ARD Audiothek  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
-  Lizenz: Kostenlos.
-* Audible - 200.000 Hörbücher, Podcasts & Hörspiele  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.audible.application)  
-  Lizenz: Kostenlos, bietet In-App-Käufe an.
-* Audio Recorder - Audio-Dateien aufnehmen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
-  Lizenz: Kostenlos und Open Source.
-* BliBu - App der norddeutschen Blindenhörbücherei.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
-  Lizenz: Kostenlos.
-* DLF Audiothek - Live-Streams und ausgewählte Audiobeiträge der Programme des Deutschlandfunks.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek)  
-  Lizenz: Kostenlos.
-* DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
-  Lizenz: Kostenlos.
-* Hi-Q MP3 Recorder  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
-  Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
-* Odyssey Musikplayer  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
-  Lizenz: Kostenlos und Open Source.
-* radio.de - Der Radioplayer für FM, DAB+ & Webradio   
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
-  Lizenz: Kostenlos, enthält Werbung.
-* RadioDroid - Internet-Radio-Player mit Aufnahmefunktion, der die Datenbank von www.radio-browser.info verwendet.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2) oder [F-Droid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/)  
-  Lizenz: Kostenlos und Open Source.
-* Receiver - das Internetradio.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
-  Lizenz: Kostenpflichtig.
-* VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
-  Lizenz: Kostenlos und Open Source.
-* Zapp - Android-Client für MediathekView, deutsche Video-Streams von öffentlich-rechtlichen Sendern.  
-  Download: [F-Droid](https://f-droid.org/de/packages/de.christinecoenen.code.zapp/)  
-  Lizenz: Kostenlos und Open Source.
-* Zattoo - TV Streaming App  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.zattoo.player)  
-  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-
 
 ## Banking
 
@@ -140,6 +91,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * Blindo - benutzerdefinierte Labels für TalkBack.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Commentary Screen Reader (Jieshuo)  
+  Download: Derzeit nur über die Support-Kanäle, z. B. [die deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch)  
+  Lizenz: Kostenlos, Premiumfunktionen beim Entwickler freischaltbar.
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: 14 Tage kostenlos, danach ist ein Abo notwendig.  
@@ -192,6 +146,61 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * Zello PTT Walkie Talkie  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.loudtalks)  
   Lizenz: Kostenlos.
+
+
+## Multimedia
+
+* AntennaPod - Podcasts verwalten und abspielen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
+  Lizenz: Kostenlos und Open Source.
+* ARD Audiothek  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
+  Lizenz: Kostenlos.
+* Audible - 200.000 Hörbücher, Podcasts & Hörspiele  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.audible.application)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Audio Recorder - Audio-Dateien aufnehmen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
+  Lizenz: Kostenlos und Open Source.
+* BliBu - App der norddeutschen Blindenhörbücherei.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
+  Lizenz: Kostenlos.
+* DLF Audiothek - Live-Streams und ausgewählte Audiobeiträge der Programme des Deutschlandfunks.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek)  
+  Lizenz: Kostenlos.
+* Dolphin Easy Reader - eBooks lesen, Anbindung an diverse Bibliotheken.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.yourdolphin.easyreader)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
+* DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
+  Lizenz: Kostenlos.
+* Hi-Q MP3 Recorder  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
+  Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
+* Odyssey Musikplayer  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
+  Lizenz: Kostenlos und Open Source.
+* radio.de - Der Radioplayer für FM, DAB+ & Webradio   
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
+  Lizenz: Kostenlos, enthält Werbung.
+* RadioDroid - Internet-Radio-Player mit Aufnahmefunktion, der die Datenbank von www.radio-browser.info verwendet.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2) oder [F-Droid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/)  
+  Lizenz: Kostenlos und Open Source.
+* Receiver - das Internetradio.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
+  Lizenz: Kostenpflichtig.
+* VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
+  Lizenz: Kostenlos und Open Source.
+* Voice Dream Reader - eBooks lesen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
+  Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
+* Zapp - Android-Client für MediathekView, deutsche Video-Streams von öffentlich-rechtlichen Sendern.  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.christinecoenen.code.zapp/)  
+  Lizenz: Kostenlos und Open Source.
+* Zattoo - TV Streaming App  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.zattoo.player)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 
 
 ## Nachrichten
