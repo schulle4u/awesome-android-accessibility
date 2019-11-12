@@ -6,9 +6,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 
 1. Für die bestmögliche Zugänglichkeit empfiehlt es sich, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistent verfügbar (Ab TalkBack 6, Voice Assistent ab Android 9). 
 2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nicht im Play Store verfügbar sind. Zur Installation solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
-  - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
-  - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
-3. Die umfangreiche Palette der Google-Apps ist grundlegend zugänglich, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich überwiegend auf Apps von Drittanbietern.
+    - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
+    - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
+3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich überwiegend auf Apps von Drittanbietern.
 
 # App-Liste
 
@@ -128,8 +128,14 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 
 ## Hilfsmittel
 
+* Acapela TTS Voices  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.acapelagroup.android.tts)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Adobe Scan - PDF-Scanner und Texterkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.scan.android)  
+  Lizenz: Kostenlos.
+* Be My Eyes - Hilfe für Blinde und Sehbehinderte.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
   Lizenz: Kostenlos.
 * Blindo - benutzerdefinierte Labels für TalkBack.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
@@ -137,6 +143,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: 14 Tage kostenlos, danach ist ein Abo notwendig.  
+* eSpeak - Mit Emoticons-Unterstützung  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.redzoc.ramees.tts.espeak)  
+  Lizenz: Kostenlos, enthält Werbung.
 * KNFB Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
@@ -152,6 +161,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * ViaOpta Daily - Objekt-, Bargeld- und Texterkennung, Lupe, Wettervorhersage und weiteres.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.viaopta.daily)  
   Lizenz: Kostenlos.
+* Vocalizer Sprachausgabe.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 
 
 ## Messenger
