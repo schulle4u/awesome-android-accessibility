@@ -238,6 +238,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * Lazarillo - GPS für Blinde.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.lazarillo)  
   Lizenz: Kostenlos.
+* Öffi - Fahrplanauskunft.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi) oder [F-Droid](https://f-droid.org/de/packages/de.schildbach.oeffi/)  
+  Lizenz: Kostenlos und Open Source.
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
   Download: [Google Play}(https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
