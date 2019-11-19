@@ -278,8 +278,14 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 
 ## Systemwerkzeuge
 
+* BaldPhone - Auf ältere und sehbehinderte Menschen ausgerichtete Telefon-Oberfläche.  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.bald.uriah.baldphone/)  
+  Lizenz: Kostenlos und Open Source.
 * F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
   Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
+  Lizenz: Kostenlos und Open Source.
+* Phone Saver - Dateien über das Teilen-Menü speichern.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=link.standen.michael.phonesaver) oder [F-Droid](https://f-droid.org/de/packages/link.standen.michael.phonesaver/).  
   Lizenz: Kostenlos und Open Source.
 
 
