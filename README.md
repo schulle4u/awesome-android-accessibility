@@ -189,6 +189,9 @@ Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte 
 * Receiver - das Internetradio.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
   Lizenz: Kostenpflichtig.
+* Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
+  Lizenz: Kostenlos.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
