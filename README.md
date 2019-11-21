@@ -181,6 +181,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
+* Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
+  Lizenz: Kostenlos.
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
