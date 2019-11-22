@@ -294,6 +294,12 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
   Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
   Lizenz: Kostenlos und Open Source.
+* Hyperion Launcher  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=projekt.launcher)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Nova Launcher  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)  
+  Lizenz: Kostenlos, kostenpflichtige Premiumversion verfügbar.
 * Phone Saver - Dateien über das Teilen-Menü speichern.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=link.standen.michael.phonesaver) oder [F-Droid](https://f-droid.org/de/packages/link.standen.michael.phonesaver/).  
   Lizenz: Kostenlos und Open Source.
