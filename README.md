@@ -2,6 +2,8 @@ Für Blinde und Sehbehinderte zugängliche Android-Apps
 =====================================================
 Zusammengestellt von Steffen Schultz.
 
+## Einleitung
+
 Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
 
 Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen erstellen](https://github.com/schulle4u/awesome-android-accessibility/issues/new), oder die Liste direkt per Pull-Request erweitern. 
@@ -13,6 +15,24 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
 3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich überwiegend auf Apps von Drittanbietern.
+
+## Inhalt
+
+- [App-Liste](#app-liste)
+  * [Banking](#banking)
+  * [Browser](#browser)
+  * [Büro](#b-ro)
+  * [Dateiverwaltung](#dateiverwaltung)
+  * [Gesundheit](#gesundheit)
+  * [Hilfsmittel](#hilfsmittel)
+  * [Messenger](#messenger)
+  * [Multimedia](#multimedia)
+  * [Nachrichten](#nachrichten)
+  * [Navigation und Verkehr](#navigation-und-verkehr)
+  * [Soziale Medien](#soziale-medien)
+  * [Shopping](#shopping)
+  * [Systemwerkzeuge](#systemwerkzeuge)
+- [Lizenz](#lizenz)
 
 # App-Liste
 
