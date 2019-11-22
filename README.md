@@ -21,7 +21,7 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 - [App-Liste](#app-liste)
   * [Banking](#banking)
   * [Browser](#browser)
-  * [Büro](#b-ro)
+  * [Büro](#büro)
   * [Dateiverwaltung](#dateiverwaltung)
   * [Gesundheit](#gesundheit)
   * [Hilfsmittel](#hilfsmittel)
