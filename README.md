@@ -280,6 +280,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * ViaOpta Nav - Navigations-App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.novartis.blind)  
   Lizenz: Kostenlos.
+* [WalkersGuide](https://www.walkersguide.org) - Fußgängerrouten für Blinde und Sehbehinderte, basierend auf [OpenStreetMap](https://www.openstreetmap.org),
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android),
+  Lizenz: Kostenlos und Open Source.
 
 
 ## Soziale Medien
