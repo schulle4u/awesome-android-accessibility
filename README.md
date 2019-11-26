@@ -253,6 +253,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 
 ## Navigation und Verkehr
 
+* Ampel-Pilot - Erkennen von Fußgänger-Ampelphasen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.tensorflow.ampelpilot)  
+  Lizenz: Kostenlos.
 * AroundME - Geschäfte anhand der aktuellen Position auflisten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
