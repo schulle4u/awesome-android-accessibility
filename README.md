@@ -136,7 +136,7 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * KNFB Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
-* MCT Money Reader - Geldscheinen erkennen.  
+* MCT Money Reader - Geldscheine erkennen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.mctdata.ParaTanima)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * QR & Barcode Scanner  
