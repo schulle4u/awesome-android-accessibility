@@ -102,6 +102,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Arznei aktuell.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* MyTherapy - Erinnerung für Medikamente.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy)  
+  Lizenz: Kostenlos.
 
 
 ## Hilfsmittel
@@ -118,6 +121,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Blindo - benutzerdefinierte Labels für TalkBack.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Cash Reader - Identifizierung von Geldscheinen in verschiedenen Währungen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.martindoudera.cashreader)  
+  Lizenz: Kostenlos, In-App-Käufe für vollständige Währungserkennung.
 * Commentary Screen Reader (Jieshuo)  
   Download: Derzeit nur über die Support-Kanäle, z. B. [die deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch)  
   Lizenz: Kostenlos, Premiumfunktionen beim Entwickler freischaltbar.
@@ -130,6 +136,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * KNFB Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
+* MCT Money Reader - Geldscheinen erkennen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.mctdata.ParaTanima)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * QR & Barcode Scanner  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.gamma.scan)  
   Lizenz: Kostenlos, enthält Werbung
@@ -314,6 +323,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * eBay Kleinanzeigen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen)  
   Lizenz: Kostenlos, enthält Werbung.
+* Einkaufszettel mit Spracheingabe  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabe)  
+  Lizenz: Kostenlos, enthält Werbung, [kostenpflichtige Version ohne werbung verfügbar](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabepro).
 
 ## Systemwerkzeuge
 
