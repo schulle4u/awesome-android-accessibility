@@ -332,6 +332,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * BaldPhone - Auf ältere und sehbehinderte Menschen ausgerichtete Telefon-Oberfläche.  
   Download: [F-Droid](https://f-droid.org/de/packages/com.bald.uriah.baldphone/)  
   Lizenz: Kostenlos und Open Source.
+* Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
+  Lizenz: Kostenpflichtig.
 * F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
   Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
   Lizenz: Kostenlos und Open Source.
@@ -344,6 +347,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Phone Saver - Dateien über das Teilen-Menü speichern.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=link.standen.michael.phonesaver) oder [F-Droid](https://f-droid.org/de/packages/link.standen.michael.phonesaver/).  
   Lizenz: Kostenlos und Open Source.
+* SwiftKey Tastatur  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)  
+  Lizenz: Kostenlos.
 
 
 # Lizenz
