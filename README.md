@@ -32,6 +32,7 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
   * [Soziale Medien](#soziale-medien)
   * [Shopping](#shopping)
   * [Systemwerkzeuge](#systemwerkzeuge)
+  * [Verschiedenes](#verschiedenes)
 - [Lizenz](#lizenz)
 
 # App-Liste
@@ -350,6 +351,16 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * SwiftKey Tastatur  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)  
   Lizenz: Kostenlos.
+
+
+## Verschiedenes
+
+* BirthdayDroid - erinnert an Geburtstage von Kontakten.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
+  Lizenz: Kostenlos und Open Source.
+* Zeitansage - sag mir die Zeit  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
+  Lizenz: Kosenlos.
 
 
 # Lizenz
