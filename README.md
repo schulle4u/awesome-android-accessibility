@@ -360,7 +360,7 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
   Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
-  Lizenz: Kosenlos.
+  Lizenz: Kostenlos.
 
 
 # Lizenz
