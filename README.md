@@ -281,6 +281,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * GetThere - GPS-Navigation für Blinde.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.LewLasher.getthere)  
   Lizenz: Kostenlos.
+* Haltestellenanzeige - Anzeige der Abfahrtszeiten aller Haltestellen in Deutschland (Abfahrtsmonitor).  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.sge.haltestellenanzeige) oder [F-Droid](https://f-droid.org/de/packages/org.sge.haltestellenanzeige/)  
+  Lizenz: Kostenlos und Open Source.
 * Lazarillo - GPS für Blinde.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.lazarillo)  
   Lizenz: Kostenlos.
