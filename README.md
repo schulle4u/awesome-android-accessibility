@@ -358,6 +358,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 
 ## Verschiedenes
 
+* Aegis Authenticator - generiert 2FA-Schlüssel (Zwei-Faktor-Authentisierung)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) oder [F-Droid](https://f-droid.org/de/packages/com.beemdevelopment.aegis)  
+  Lizenz: Kostenlos und Open Source.
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
