@@ -211,6 +211,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
+* Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
+  Lizenz: Kostenlos.
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
@@ -220,7 +223,7 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
-* radio.de - Der Radioplayer für FM, DAB+ & Webradio   
+* Radio.de - Der Radioplayer für FM, DAB+ & Webradio   
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
   Lizenz: Kostenlos, enthält Werbung.
 * RadioDroid - Internet-Radio-Player mit Aufnahmefunktion, der die Datenbank von www.radio-browser.info verwendet.  
@@ -229,9 +232,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Receiver - das Internetradio.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
   Lizenz: Kostenpflichtig.
-* Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
-  Lizenz: Kostenlos.
+* Timbre - Audio/Videos schneiden und konvertieren  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
