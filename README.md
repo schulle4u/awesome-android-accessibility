@@ -155,6 +155,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Vocalizer Sprachausgabe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Voice Dream Scanner - Dokumentenerkennung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
+  Lizenz: Kostenpflichtig.
 
 
 ## Messenger
@@ -257,6 +260,9 @@ Neue Apps sind sehr willkommen. Du kannst [ein Issue mit deinen Vorschlägen ers
 * Toralarm Fußball-Bundesliga  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.eisterhues_media_2)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* WarnWetter - Die Warn-App vom Deutschen Wetterdienst mit detailierten Infos zur Warn- und Wetterlage.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.dwd.warnapp)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Wetter Online  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.wetteronline.wetterapp)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
