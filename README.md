@@ -223,6 +223,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
+* Noice - entspannende Hintergrundgeräusche  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice) oder [F-Droid](https://f-droid.org/de/packages/com.github.ashutoshgngwr.noice/)  
+  Lizenz: Kostenlos und Open Source.
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
