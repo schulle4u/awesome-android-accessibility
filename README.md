@@ -373,6 +373,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * Aegis Authenticator - generiert 2FA-Schlüssel (Zwei-Faktor-Authentisierung)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) oder [F-Droid](https://f-droid.org/de/packages/com.beemdevelopment.aegis)  
   Lizenz: Kostenlos und Open Source.
+* BirdNET - Vogelstimmen einfach erkennen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet)  
+  Lizenz: Kostenlos.
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
