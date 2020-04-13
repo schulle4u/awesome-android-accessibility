@@ -25,7 +25,7 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
   * [Dateiverwaltung](#dateiverwaltung)
   * [Gesundheit](#gesundheit)
   * [Hilfsmittel](#hilfsmittel)
-  * [Messenger](#messenger)
+  * [Kommunikation](#kommunikation)
   * [Multimedia](#multimedia)
   * [Nachrichten](#nachrichten)
   * [Navigation und Verkehr](#navigation-und-verkehr)
@@ -65,15 +65,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * iA Writer - Einfach schreiben mit Markdown.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter)  
   Lizenz: Kostenlos.
-* K-9 Mail - Open-Source-E-Mail-Client.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) oder [F-Droid](https://f-droid.org/de/packages/com.fsck.k9/)  
-  Lizenz: Kostenlos und Open Source.
 * Markor - Markdown-Editor.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor) oder [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor)  
   Lizenz: Kostenlos und Open Source.
-* Microsoft Outlook  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)  
-  Lizenz: Kostenlos, enthält Werbung.
 * Microsoft Word - Dokumente verfassen und bearbeiten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.word)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -160,11 +154,17 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
   Lizenz: Kostenpflichtig.
 
 
-## Messenger
+## Kommunikation
 
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* K-9 Mail - Open-Source-E-Mail-Client.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) oder [F-Droid](https://f-droid.org/de/packages/com.fsck.k9/)  
+  Lizenz: Kostenlos und Open Source.
+* Microsoft Outlook  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)  
+  Lizenz: Kostenlos, enthält Werbung.
 * QKSMS - alternative SMS-App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS) oder [F-Droid](https://f-droid.org/de/packages/com.moez.QKSMS).  
   Lizenz: Kostenlos und Open Source.
@@ -174,6 +174,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * Skype - kostenlose Chats und Videoanrufe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider)  
   Lizenz: Kostenlos, enthält Werbung.
+* TeamTalk - Server-basierte Sprach- und Videokonferenzen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=dk.bearware.gui) oder [als APK beim Entwickler](https://bearware.dk/?page_id=353)  
+  Lizenz: Kostenlos.
 * Telegram - eine auf Geschwindigkeit und Sicherheit fokussierte Messaging-App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)  oder [F-Droid](https://f-droid.org/de/packages/org.telegram.messenger)  
   Lizenz: Kostenlos und (teilweise) Open Source).
