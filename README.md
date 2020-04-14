@@ -382,6 +382,12 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
+* Phyphox - Physikexperimente mit dem Telefon durchführen (Experimente sind häufig nur in der vereinfachten Ansicht zugänglich)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) oder [F-Droid](https://f-droid.org/de/packages/de.rwth_aachen.phyphox)  
+  Lizenz: Kostenlos und Open Source.
+* WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
+  Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
   Lizenz: Kostenlos.
