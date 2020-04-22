@@ -55,6 +55,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * Microsoft Edge  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)  
   Lizenz: Kostenlos.
+* Vivaldi - umfangreich konfigurierbarer Browser mit Werbeblocker und Tracking-Schutz  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  
+  Lizenz: Kostenlos
 
 
 ## Büro
