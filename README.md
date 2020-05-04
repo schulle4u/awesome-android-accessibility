@@ -385,6 +385,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
+* ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
+  Lizenz: Kostenlos und Open Source.
 * Phyphox - Physikexperimente mit dem Telefon durchführen (Experimente sind häufig nur in der vereinfachten Ansicht zugänglich)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) oder [F-Droid](https://f-droid.org/de/packages/de.rwth_aachen.phyphox)  
   Lizenz: Kostenlos und Open Source.
