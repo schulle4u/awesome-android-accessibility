@@ -220,9 +220,6 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
-* Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
-  Lizenz: Kostenlos.
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
@@ -387,6 +384,15 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
   Lizenz: Kostenlos und Open Source.
 * ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
   Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
+  Lizenz: Kostenlos und Open Source.
+* Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
+  Lizenz: Kostenlos.
+* Metronome - Einfaches Metronom mit Takt- und Tempokonfiguration  
+  Download: [F-Droid](https://f-droid.org/app/com.mustupid.metronome)  
+  Lizenz: Kostenlos und Open Source.
+* Metronome - einfaches und zuverlässiges Metronom, bietet weitere Anpassungsmöglichkeiten  
+  Download: [F-droid](https://f-droid.org/app/com.arnaud.metronome)  
   Lizenz: Kostenlos und Open Source.
 * Phyphox - Physikexperimente mit dem Telefon durchführen (Experimente sind häufig nur in der vereinfachten Ansicht zugänglich)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) oder [F-Droid](https://f-droid.org/de/packages/de.rwth_aachen.phyphox)  
