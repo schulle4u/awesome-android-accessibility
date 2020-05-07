@@ -162,6 +162,9 @@ Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* Facebook Messenger - Kostenlose Nachrichten und Videoanrufe  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * K-9 Mail - Open-Source-E-Mail-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) oder [F-Droid](https://f-droid.org/de/packages/com.fsck.k9/)  
   Lizenz: Kostenlos und Open Source.
