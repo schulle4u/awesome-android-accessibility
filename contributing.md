@@ -1,8 +1,3 @@
----
-title: Mitmachen
-layout: page
-permalink: /contributing.html
----
 Mitmachen
 =========
 

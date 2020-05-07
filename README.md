@@ -417,4 +417,4 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 
 # Lizenz
 
-Dieses Werk wurde unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE) freigegeben.
+Dieses Werk wurde unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/awesome-android-accessibility/blob/master/LICENSE) freigegeben.
