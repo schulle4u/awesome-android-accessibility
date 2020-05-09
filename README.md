@@ -251,6 +251,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Receiver - das Internetradio.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
   Lizenz: Kostenpflichtig.
+* ScreenCam - einfacher Bildschirmrecorder  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder) oder [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
+  Lizenz: Kostenlos und Open Source.
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
