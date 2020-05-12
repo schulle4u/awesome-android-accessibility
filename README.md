@@ -257,6 +257,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Transistor Radio - minimalistische Internetradio-App, die ihre Sender als M3U-Dateien speichert.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.y20k.transistor) oder [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor)  
+  Lizenz: Kostenlos und Open Source.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
