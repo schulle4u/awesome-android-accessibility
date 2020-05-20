@@ -236,6 +236,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
+* NewPipe - alternative Youtube-App, die u. a. das Herunterladen von Videos erlaubt.  
+  Download: [F-droid](https://f-droid.org/de/packages/org.schabi.newpipe)  
+  Lizenz: Kostenlos und Open Source
 * Noice - entspannende Hintergrundgeräusche  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice) oder [F-Droid](https://f-droid.org/de/packages/com.github.ashutoshgngwr.noice/)  
   Lizenz: Kostenlos und Open Source.
