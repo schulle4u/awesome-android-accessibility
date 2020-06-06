@@ -132,7 +132,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * eSpeak - Mit Emoticons-Unterstützung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.redzoc.ramees.tts.espeak)  
   Lizenz: Kostenlos, enthält Werbung.
-* KNFB Reader - Dokumentenerkennung.  
+* KNFB Reader - Dokumentenerkennung (Achtung, aktuell nicht unter Android 10 nutzbar).  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
 * MCT Money Reader - Geldscheine erkennen.  
@@ -144,6 +144,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * SecScanQR Der QR-Code-Scanner/Generator, der sich um Privatsphäre kümmert.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.t_dankworth.secscanqr/)  
   Lizenz: Kostenlos und Open Source.
+* Sullivan+ - Texterkennung, Szenenbeschreibung und weitere Funktionen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=tuat.kr.sullivan)  
+  Lizenz: Kostenlos.
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
