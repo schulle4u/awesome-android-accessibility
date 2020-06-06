@@ -404,6 +404,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
+* Blind-Droid Alarm - Wecker-App  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.mirwebsistem.alarm)  
+  Lizenz: Kostenlos.
 * ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
   Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
   Lizenz: Kostenlos und Open Source.
