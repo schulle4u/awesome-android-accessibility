@@ -239,6 +239,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
+* MPD Remote - Ein [MPD](https://de.wikipedia.org/wiki/Music_Player_Daemon) Client  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.prezz.mpr)  
+  Lizenz: Kostenlos und Open Source.
 * NewPipe - alternative Youtube-App, die u. a. das Herunterladen von Videos erlaubt.  
   Download: [F-droid](https://f-droid.org/de/packages/org.schabi.newpipe)  
   Lizenz: Kostenlos und Open Source
