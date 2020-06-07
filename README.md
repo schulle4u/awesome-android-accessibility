@@ -239,6 +239,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
+* MPD Remote - Ein [MPD](https://de.wikipedia.org/wiki/Music_Player_Daemon) Client  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.prezz.mpr)  
+  Lizenz: Kostenlos und Open Source.
 * NewPipe - alternative Youtube-App, die u. a. das Herunterladen von Videos erlaubt.  
   Download: [F-droid](https://f-droid.org/de/packages/org.schabi.newpipe)  
   Lizenz: Kostenlos und Open Source
@@ -260,6 +263,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * ScreenCam - einfacher Bildschirmrecorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder) oder [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
   Lizenz: Kostenlos und Open Source.
+* Smart AudioBook Player - Hörbuch-Abspiel-App; Funktionen u.a.: Sleep Timer und Smartphone drehen, um die Wiedergabe zu pausieren  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)  
+  Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
@@ -424,6 +430,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
   Lizenz: Kostenlos und Open Source.
 * WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
+  Lizenz: Kostenlos und Open Source.
+* [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
