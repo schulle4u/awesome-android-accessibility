@@ -260,6 +260,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * ScreenCam - einfacher Bildschirmrecorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder) oder [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
   Lizenz: Kostenlos und Open Source.
+* Smart AudioBook Player - Hörbuch-Abspiel-App; Funktionen u.a.: Sleep Timer und Smartphone drehen, um die Wiedergabe zu pausieren  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)  
+  Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
