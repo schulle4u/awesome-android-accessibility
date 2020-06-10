@@ -272,6 +272,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Transistor Radio - minimalistische Internetradio-App, die ihre Sender als M3U-Dateien speichert.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.y20k.transistor) oder [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor)  
   Lizenz: Kostenlos und Open Source.
+* TV-Browser vP - TV- und Radioprogrammvorschau  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.tvbrowser.tvbrowser.play)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
