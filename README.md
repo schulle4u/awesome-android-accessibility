@@ -67,8 +67,8 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * iA Writer - Einfach schreiben mit Markdown.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter)  
-  Lizenz: Kostenlos.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter.x)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Markor - Markdown-Editor.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor) oder [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor)  
   Lizenz: Kostenlos und Open Source.
