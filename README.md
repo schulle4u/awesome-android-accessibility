@@ -400,6 +400,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Phone Saver - Dateien über das Teilen-Menü speichern.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=link.standen.michael.phonesaver) oder [F-Droid](https://f-droid.org/de/packages/link.standen.michael.phonesaver/).  
   Lizenz: Kostenlos und Open Source.
+* Raise to answer - Anrufe annehmen, indem das Telefon an das Ohr gehalten wird.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) oder [F-Droid](https://f-droid.org/de/packages/me.hackerchick.raisetoanswer/)  
+  Lizenz: Kostenlos und Open Source.
 * Shade Launcher - Typischer Android-Launcher ohne unnötigen Ballast.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=amirz.shade)  
   Lizenz: Kostenlos und Open Source.
