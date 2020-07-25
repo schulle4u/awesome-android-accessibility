@@ -449,6 +449,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
+* WaveUp - schaltet den Bildschirm durch Winken über den Nhäherungssensor ein.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.jarsilio.android.waveup) oder [F-Droid](https://f-droid.org/de/packages/com.jarsilio.android.waveup/)  
+  Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
   Lizenz: Kostenlos.
