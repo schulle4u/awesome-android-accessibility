@@ -11,11 +11,11 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 
 ## Hinweise
 
-1. Auch wenn die meisten Apps eine gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistant verfügbar (Ab TalkBack 6, Voice Assistant ab Android 9). 
+1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistant verfügbar (Ab TalkBack 6, Voice Assistant ab Android 9). 
 2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nicht im Play Store verfügbar sind. Zur Installation solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
-3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich überwiegend auf Apps von Drittanbietern.
+3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz für diese Liste haben, auf Apps von Drittanbietern.
 
 ## Inhalt
 
@@ -138,6 +138,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * KNFB Reader - Dokumentenerkennung (Achtung, aktuell nicht unter Android 10 nutzbar).  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
+* Lookout von Google - Lookout nutzt maschinelles Sehen, um Menschen mit eingeschränktem Sehvermögen oder einer Sehbehinderung dabei zu helfen, Aufgaben schneller und einfacher zu erledigen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal)  
+  Lizenz: Kostenlos.
 * MCT Money Reader - Geldscheine erkennen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.mctdata.ParaTanima)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -299,6 +302,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 
 * Handy News Reader - RSS-Leser mit Offline-Unterstützung für Artikel.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.yanus171.feedexfork) oder [F-Droid](https://f-droid.org/de/packages/ru.yanus171.feedexfork)  
+  Lizenz: Kostenlos und Open Source.
+* Readrops - RSS-Leser für lokale Feeds und Online-Dienste.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.readrops.app) oder [F-droid](https://f-droid.org/de/packages/com.readrops.app)  
   Lizenz: Kostenlos und Open Source.
 * Toralarm Fußball-Bundesliga  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.eisterhues_media_2)  
