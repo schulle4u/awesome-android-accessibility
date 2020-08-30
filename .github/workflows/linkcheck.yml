@@ -13,4 +13,4 @@ jobs:
         uses: paramt/url-checker@master
         with:
           files: "README.md"
-          blacklist: "www.radio-browser.info,Wetter.com,Pump.io,Radio.de,F-Droid.org,https://bearware.dk/?page_id=353"
+          blacklist: "LICENSE,www.radio-browser.info,Wetter.com,Pump.io,Radio.de,F-Droid.org,https://bearware.dk/?page_id=353"
