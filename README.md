@@ -437,6 +437,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
   Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
   Lizenz: Kostenlos und Open Source.
+* CPU Info - Informationen über die Hardware und Software des Gerätes  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo) oder [F-Droid](https://f-droid.org/de/packages/com.kgurgul.cpuinfo/)  
+  Lizenz: Kostenlos und Open Source.
 * Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
   Lizenz: Kostenlos.
