@@ -126,7 +126,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Cash Reader - Identifizierung von Geldscheinen in verschiedenen Währungen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.martindoudera.cashreader)  
   Lizenz: Kostenlos, In-App-Käufe für vollständige Währungserkennung.
-* Commentary Screen Reader (Jieshuo) - alternativer Android-Bildschirmleser mit sehr umfangreichen Anpassungsmöglichkeiten. [Deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch).
+* Commentary Screen Reader (Jieshuo) - alternativer Android-Bildschirmleser mit sehr umfangreichen Anpassungsmöglichkeiten. [Deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch).  
   Download: [GitHub](https://github.com/nirenr/jieshuo/releases/latest)  
   Lizenz: Kostenlos, Premiumfunktionen beim Entwickler freischaltbar.
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
