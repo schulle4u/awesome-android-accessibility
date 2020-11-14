@@ -452,6 +452,12 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Metronome - einfaches und zuverlässiges Metronom, bietet weitere Anpassungsmöglichkeiten  
   Download: [F-droid](https://f-droid.org/app/com.arnaud.metronome)  
   Lizenz: Kostenlos und Open Source.
+* Ookla Speedtest - Internetgeschwindigkeit testen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* OOMI Probe - prüft das Netzwerk auf gesperrte Webseiten und Dienste, auch zur Geschwindigkeitsmessung nutzbar.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) oder [F-Droid](https://f-droid.org/de/packages/org.openobservatory.ooniprobe/)  
+  Lizenz: Kostenlos und Open Source.
 * Phyphox - Physikexperimente mit dem Telefon durchführen (Experimente sind häufig nur in der vereinfachten Ansicht zugänglich)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) oder [F-Droid](https://f-droid.org/de/packages/de.rwth_aachen.phyphox)  
   Lizenz: Kostenlos und Open Source.
