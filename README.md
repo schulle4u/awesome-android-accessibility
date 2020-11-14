@@ -43,8 +43,8 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * PayPal - einfach Geld senden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
   Lizenz: Kostenlos
-* Sparkasse - Ihre mobile Filiale.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus)  
+* Sparkasse - Ihre mobile Filiale (es gibt Berichte über Zugänglichkeitsprobleme, scheint jedoch modellabhängig zu sein. Getestet auf einem Moto G7 Plus mit Android 10).  
+  Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
   Lizenz: Kostenlos, enthält Werbung.
 
 
