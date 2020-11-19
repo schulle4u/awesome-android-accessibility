@@ -395,7 +395,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 ## Systemwerkzeuge
 
 * BaldPhone - Auf ältere und sehbehinderte Menschen ausgerichtete Telefon-Oberfläche.  
-  Download: [F-Droid](https://f-droid.org/de/packages/com.bald.uriah.baldphone/)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.bald.uriah.baldphone.gp) oder [F-Droid](https://f-droid.org/de/packages/com.bald.uriah.baldphone/)  
   Lizenz: Kostenlos und Open Source.
 * Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
