@@ -32,6 +32,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
   * [Navigation und Verkehr](#navigation-und-verkehr)
   * [Soziale Medien](#soziale-medien)
   * [Shopping](#shopping)
+  * [Spiele](#spiele)
   * [Systemwerkzeuge](#systemwerkzeuge)
   * [Verschiedenes](#verschiedenes)
 - [Lizenz](#lizenz)
@@ -391,6 +392,27 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Einkaufszettel mit Spracheingabe  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabe)  
   Lizenz: Kostenlos, enthält Werbung, [kostenpflichtige Version ohne werbung verfügbar](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabepro).
+
+## Spiele
+
+* Antimine - Ein Puzzle-Spiel, in dem du nach allen verborgenen Minen suchst.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato) oder [F-Droid](https://f-droid.org/de/packages/dev.lucanlm.antimine/)  
+  Lizenz: Kostenlos und Open Source
+* Audio Game Hub - verschiedene Arcade-Games in einer App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Enchanted Fortress - eine Burg aufbauen, bewirtschaften und verteidigen.  
+  Download: [F-Droid](https://f-droid.org/de/packages/hr.kravarscan.enchantedfortress/)  
+  Lizenz: Kostenlos und Open Source
+* Idle Crafting Kingdom - baue Produktionsstätten und sammle Rohstoffe um daraus wertvolle Waren herzustellen!  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.MetalPop.CraftingKingdom)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Number Guesser - einfaches Zahlenratespiel  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.numguesser.tonio_rpchp.numberguesser/)  
+  Lizenz: Kostenlos und Open Source
+* Sound Of Magic - eine Mischung aus Hörspiel und Point-And-Click-Adventure  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.everbytestudio.audiogames.soundofmagic)  
+  Lizenz: Kostenlose Demo, bietet In-App-Käufe an.
 
 ## Systemwerkzeuge
 
