@@ -252,7 +252,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
-* Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte  
+* Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte im [OpenZim-Format](https://wiki.openzim.org/wiki/OpenZIM)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [F-Droid](https://f-droid.org/de/packages/org.kiwix.kiwixmobile)  
   Lizenz: Kostenlos und Open Source.
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
