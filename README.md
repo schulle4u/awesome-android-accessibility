@@ -67,6 +67,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Adobe Acrobat Reader - PDF bearbeiten & erstellen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* EZ Notes - mobiler notizblock mit Spracherkennung  
+  Download via Google Play: [Vollversion](https://play.google.com/store/apps/details?id=com.pristineusa.android.speechtotext) oder [Lite-Version](https://play.google.com/store/apps/details?id=com.pristineusa.android.speechtotextlite)  
+  Lizenz: Kostenpflichtig, Lite-Version kostenlos.
 * iA Writer - Einfach schreiben mit Markdown.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter.x)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -249,6 +252,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
+* Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [F-Droid](https://f-droid.org/de/packages/org.kiwix.kiwixmobile)  
+  Lizenz: Kostenlos und Open Source.
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
