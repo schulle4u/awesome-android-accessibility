@@ -106,7 +106,7 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Corona-Warn-App - offizielle Corona-Tracing-App des Robert-Koch-Institutes  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.rki.coronawarnapp)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.rki.coronawarnapp) oder [F-Droid](https://f-droid.org/packages/de.corona.tracing/) (Fork ohne Google-Abhängigkeiten)  
   Lizenz: Kostenlos und Open Source.
 * MyTherapy - Erinnerung für Medikamente.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy)  
