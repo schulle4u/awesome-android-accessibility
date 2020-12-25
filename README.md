@@ -483,6 +483,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Metronome - einfaches und zuverlässiges Metronom, bietet weitere Anpassungsmöglichkeiten  
   Download: [F-droid](https://f-droid.org/app/com.arnaud.metronome)  
   Lizenz: Kostenlos und Open Source.
+* Ning - lokales Netzwerk nach Geräten scannen  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.csicar.ning/)  
+  Lizenz: Kostenlos und Open Source.
 * Ookla Speedtest - Internetgeschwindigkeit testen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
