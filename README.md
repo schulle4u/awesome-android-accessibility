@@ -340,9 +340,6 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * AroundME - Geschäfte anhand der aktuellen Position auflisten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* DB Barrierefrei - Reisebegleiter mit Infos zu Bahnhofsanzeigen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=db.barrierefrei)  
-  Lizenz: Kostenlos.
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
   Lizenz: Kostenlos.
