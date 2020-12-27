@@ -340,6 +340,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * AroundME - Geschäfte anhand der aktuellen Position auflisten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* DB Bahnhof live - Haltestellen- und Bahnhofsinformationen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschebahn.bahnhoflive)  
+  Lizenz: Kostenlos.
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
   Lizenz: Kostenlos.
