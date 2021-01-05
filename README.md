@@ -422,6 +422,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Sound Of Magic - eine Mischung aus Hörspiel und Point-And-Click-Adventure  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.everbytestudio.audiogames.soundofmagic)  
   Lizenz: Kostenlose Demo, bietet In-App-Käufe an.
+* Tabletop tools - Werkzeuge für Spieltische (diverse Würfel, Rot13, Zahlenkonverter usw.)  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.github.muellerma.tabletoptools/)  
+  Lizenz: Kostenlos und Open Source.
 
 ## Systemwerkzeuge
 
