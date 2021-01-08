@@ -319,6 +319,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * Readrops - RSS-Leser für lokale Feeds und Online-Dienste.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.readrops.app) oder [F-droid](https://f-droid.org/de/packages/com.readrops.app)  
   Lizenz: Kostenlos und Open Source.
+* Suntimes - detailierte Informationen zu Sonnen- und Mondlicht, bietet Alarmierungen und Widgets an.  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.forrestguice.suntimeswidget/)  
+  Lizenz: Kostenlos und Open Source.
 * Toralarm Fußball-Bundesliga  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.eisterhues_media_2)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
