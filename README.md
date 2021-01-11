@@ -316,6 +316,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 
 ## Nachrichten
 
+* Feeder - Einfacher RSS-Leser
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) oder [F-Droid](https://f-droid.org/de/packages/com.nononsenseapps.feeder/)  
+  Lizenz: Kostenlos und Open Source.
 * Handy News Reader - RSS-Leser mit Offline-Unterstützung für Artikel.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.yanus171.feedexfork) oder [F-Droid](https://f-droid.org/de/packages/ru.yanus171.feedexfork)  
   Lizenz: Kostenlos und Open Source.
