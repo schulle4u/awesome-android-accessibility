@@ -249,6 +249,9 @@ Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und 
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
+* GoldWave - Audio-Editor, Recorder und Konverter  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.goldwave.GoldWave)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
