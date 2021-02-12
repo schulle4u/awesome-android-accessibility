@@ -16,6 +16,8 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
 3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
+4. Um tote Links zu vermeiden, prüft ein Linkchecker zweimal monatlich, ob die Download-Seiten der jeweiligen Apps noch erreichbar sind, sodass ich sie gegebenenfalls entfernen kann. Eine Prüfung auf Veränderung des Barrierefreiheitszustands ist damit natürlich nicht möglich, zumal ich auch nicht jede App selbst nutze. Wer eine unbedienbar gewordene App findet, kann sie gern bei mir melden, und ich kümmere mich um die Angelegenheit.
+5. Schlussendlich gilt: Eine Nutzung der hier aufgeführten Angebote geschieht auf eigene Verantwortung!
 
 ## Inhalt
 
@@ -160,6 +162,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SecScanQR Der QR-Code-Scanner/Generator, der sich um Privatsphäre kümmert.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.t_dankworth.secscanqr/)  
   Lizenz: Kostenlos und Open Source.
+* SmartVoice - automatischer Wechsel der Sprachausgabe durch Erkennung der Eingabesprache, enthält einen Sprachsynthesizer auf Basis von SVox Pico.  
+  Download: [Entwickler-Homepage](http://poretsky.homelinux.net/android/smartvoice/index-en.html)  
+  Lizenz: Kostenlos
 * Sullivan+ - Texterkennung, Szenenbeschreibung und weitere Funktionen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=tuat.kr.sullivan)  
   Lizenz: Kostenlos.
