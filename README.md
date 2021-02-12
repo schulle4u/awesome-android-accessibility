@@ -4,18 +4,18 @@ Zusammengestellt von Steffen Schultz.
 
 ## Einleitung
 
-Dies ist eine Liste mit Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
+Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
 
-Die Liste wird fortlaufend erweitert. Du kannst den [Atom-Feed abonnieren](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom), um über Neueinträge und Änderungen informiert zu bleiben.  
-Du möchtest selbst Vorschläge machen? Kein Problem: [Hier sind die Regeln und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
+Du kannst den [Atom-Feed abonnieren](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom), um über Neueinträge und Änderungen informiert zu bleiben.  
+Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
 
 ## Hinweise
 
 1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistant verfügbar (Ab TalkBack 6, Voice Assistant ab Android 9). 
-2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nicht im Play Store verfügbar sind. Zur Installation solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
+2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nur dort verfügbar sind. Zur Nutzung solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
-3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz für diese Liste haben, auf Apps von Drittanbietern.
+3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
 
 ## Inhalt
 

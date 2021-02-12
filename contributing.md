@@ -1,7 +1,7 @@
 Mitmachen
 =========
 
-## Die Regeln
+## Die Kriterien
 Bevor du einen Vorschlag einreichst, hier ein paar kurze Kriterien für neue Apps. 
 
 * Awesome Accessibility steht für hervorragende Zugänglichkeit. Die App sollte sich daher im Großteil ihrer Funktionen ohne weitere Anpassungen des Screenreaders durch eine vollständige Zugänglichkeit (Barrierefreiheit) auszeichnen. Eine App, deren Buttons und Steuerelemente nur durch Aktivieren der Element-IDs in den Ausführlichkeitseinstellungen zugänglich gemacht werden kann, sollte nicht in die Liste aufgenommen werden. 
@@ -17,5 +17,5 @@ Wenn du bereits mehr Erfahrung im Umgang mit GitHub-Repositories hast, kannst du
 
 
 ## Sonstige Kontaktmöglichkeiten
-Auch wer kein GitHub-Profi ist, kann selbstverständlich Vorschläge einreichen. Kontaktiere mich einfach via [Twitter](https://twitter.com/schulle4u), [Mastodon](https://mastodon.social/@schulle4u) oder [E-Mail](mailto:steffenschultz@mailbox.org). 
+Auch wer kein GitHub-Profi ist, kann selbstverständlich Vorschläge einreichen. Kontaktiere mich einfach via [Twitter](https://twitter.com/schulle4u), [Mastodon](https://troet.cafe/@radiorobbe) oder [E-Mail](mailto:steffenschultz@mailbox.org). 
 
