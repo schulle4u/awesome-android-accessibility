@@ -469,7 +469,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SwiftKey Tastatur  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)  
   Lizenz: Kostenlos.
-
+* Text Launcher - der wohl kleinstmögliche Android-Launcher, enthält nur eine alphabetische App-Liste.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ademar.textlauncher) oder [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
+  Lizenz: Kostenlos und Open Source.
 
 ## Verschiedenes
 
