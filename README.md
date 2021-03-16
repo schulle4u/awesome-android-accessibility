@@ -523,6 +523,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * WaveUp - schaltet den Bildschirm durch Winken über den Nhäherungssensor ein.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.jarsilio.android.waveup) oder [F-Droid](https://f-droid.org/de/packages/com.jarsilio.android.waveup/)  
   Lizenz: Kostenlos und Open Source.
+* Watomatic  - versendet automatische Antworten auf WhatsApp- und Facebook-Nachrichten, ideal für einen Messenger-Wechsel oder als Urlaubs-Antwort.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.parishod.watomatic) oder [F-Droid](https://f-droid.org/de/packages/com.parishod.watomatic/)  
+  Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
   Lizenz: Kostenlos.
