@@ -261,7 +261,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
 * Homer Player - Hörbuch-Player mit sehr einfacher Oberfläche  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.studio4plus.homerplayer) oder F-Droid (Link folgt)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.studio4plus.homerplayer) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/com.studio4plus.homerplayer)  
   Lizenz: Kostenlos und Open Source.
 * Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte im [OpenZim-Format](https://wiki.openzim.org/wiki/OpenZIM)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [F-Droid](https://f-droid.org/de/packages/org.kiwix.kiwixmobile)  
@@ -448,6 +448,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
   Lizenz: Kostenpflichtig.
+* Elder Launcher - für senioren optimierter Launcher.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.arjunsinh.elderlauncher) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/xyz.arjunsinh.elderlauncher)  
+  Lizenz: Kostenlos und Open Source.
 * F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
   Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
   Lizenz: Kostenlos und Open Source.
