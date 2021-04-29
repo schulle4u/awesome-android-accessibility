@@ -242,6 +242,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Audio Recorder - Audio-Dateien aufnehmen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
   Lizenz: Kostenlos und Open Source.
+* BBH Katalog - App der Bayerischen Hörbücherei für Blinde, Seh- und Lesebeeinträchtigte.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.quickbirdstudios.bbh)  
+  Lizenz: Kostenlos.
 * BliBu - App der norddeutschen Blindenhörbücherei.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
   Lizenz: Kostenlos.
