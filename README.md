@@ -110,6 +110,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Corona-Warn-App - offizielle Corona-Tracing-App des Robert-Koch-Institutes  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rki.coronawarnapp) oder [F-Droid](https://f-droid.org/packages/de.corona.tracing/) (Fork ohne Google-Abhängigkeiten)  
   Lizenz: Kostenlos und Open Source.
+* Darf ich das? - Tagesaktuelle Inzidenzwerte und Corona-Verordnungen für deine Region  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.intradesys.darfichdas)  
+  Lizenz: Kostenlos.
 * MyTherapy - Erinnerung für Medikamente.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy)  
   Lizenz: Kostenlos.
