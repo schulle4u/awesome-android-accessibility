@@ -103,6 +103,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Simple File Manager Pro - ein einfacher Dateimanager zum Durchsuchen von Dateien und Verzeichnissen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) oder [F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* Total Commander - Datei-Manager  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
+  Lizenz: Kostenlos.
 
 
 ## Gesundheit
