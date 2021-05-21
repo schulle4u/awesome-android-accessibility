@@ -403,6 +403,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * AndStatus - Client für GNU social, Mastodon, Twitter und Pump.io.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.andstatus.app) oder [F-Droid](https://f-droid.org/de/packages/org.andstatus.app)  
   Lizenz: Kostenlos und Open Source.
+* Clubhouse - Audiobasiertes soziales Netzwerk, man benötigt derzeit noch eine Einladung  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.clubhouse.app)  
+  Lizenz: Kostenlos.
 * Facebook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana)  
   Lizenz: Kostenlos, enthält werbung und bietet In-App-Käufe an.
