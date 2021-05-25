@@ -100,7 +100,10 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Nextcloud - die Nextcloud App erlaubt Dir Zugriff auf alle Dateien in Deiner Nextcloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client) oder [F-Droid](https://f-droid.org/de/packages/com.nextcloud.client)  
   Lizenz: Kostenlos und Open Source.
-* Simple File Manager Pro - ein einfacher Dateimanager zum Durchsuchen von Dateien und Verzeichnissen.  
+* RCX - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx) oder [F-Droid](https://f-droid.org/de/packages/io.github.x0b.rcx/)  
+  Lizenz: Kostenlos und Open Source.
+* Simple File Manager Pro - ein einfacher Dateimanager zum Durchsuchen von lokalen Dateien und Verzeichnissen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) oder [F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 * Total Commander - Datei-Manager  
