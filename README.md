@@ -145,7 +145,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.martindoudera.cashreader)  
   Lizenz: Kostenlos, In-App-Käufe für vollständige Währungserkennung.
 * Commentary Screen Reader (Jieshuo) - alternativer Android-Bildschirmleser mit sehr umfangreichen Anpassungsmöglichkeiten. [Deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch).  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.nirenr.talkman.geek) oder [GitHub](https://github.com/nirenr/jieshuo/releases/latest)  
+  Download: [GitHub](https://github.com/nirenr/jieshuo/releases/latest)  
   Lizenz: Kostenlos, Premiumfunktionen beim Entwickler freischaltbar.
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
@@ -393,9 +393,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
-* ViaOpta Nav - Navigations-App.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.novartis.blind)  
-  Lizenz: Kostenlos.
 * [WalkersGuide](https://www.walkersguide.org) - Fußgängerrouten für Blinde und Sehbehinderte, basierend auf [OpenStreetMap](https://www.openstreetmap.org)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android)  
   Lizenz: Kostenlos und Open Source.
