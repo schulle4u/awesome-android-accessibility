@@ -220,6 +220,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Signal - sicherer Messenger.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms).  
   Lizenz: Kostenlos und Open Source.
+* Sipnetic - VoIP-Telefon-App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.sipnetic.app)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Skype - kostenlose Chats und Videoanrufe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider)  
   Lizenz: Kostenlos, enthält Werbung.
