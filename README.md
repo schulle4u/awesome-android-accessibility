@@ -189,7 +189,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Vocalizer Sprachausgabe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* Voice Dream Scanner - Dokumentenerkennung.  
+* Legere Scanner - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
   Lizenz: Kostenpflichtig.
 
@@ -326,7 +326,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
-* Voice Dream Reader - eBooks lesen.  
+* Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
 * Zapp - Android-Client für MediathekView, deutsche Video-Streams von öffentlich-rechtlichen Sendern.  
