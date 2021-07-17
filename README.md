@@ -345,6 +345,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Handy News Reader - RSS-Leser mit Offline-Unterstützung für Artikel.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.yanus171.feedexfork) oder [F-Droid](https://f-droid.org/de/packages/ru.yanus171.feedexfork)  
   Lizenz: Kostenlos und Open Source.
+* Pocket - Eine App zum späteren Lesen von Artikeln  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Readrops - RSS-Leser für lokale Feeds und Online-Dienste.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.readrops.app) oder [F-droid](https://f-droid.org/de/packages/com.readrops.app)  
   Lizenz: Kostenlos und Open Source.
