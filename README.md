@@ -532,6 +532,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Ning - lokales Netzwerk nach Geräten scannen  
   Download: [F-Droid](https://f-droid.org/de/packages/de.csicar.ning/)  
   Lizenz: Kostenlos und Open Source.
+* NotificationLog - protokolliert Benachrichtigungen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.jl.notificationlog) oder [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
+  Lizenz: Kostenlos und Open Source.
 * Ookla Speedtest - Internetgeschwindigkeit testen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
