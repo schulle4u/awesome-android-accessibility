@@ -520,6 +520,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Free Universal Tuner - Stimmgerät für Saiteninstrumente.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.aterlux.guitartuner)  
   Lizenz: Kostenlos.
+* GitHub - offizieller GitHub-Client  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.android)  
+  Lizenz: Kostenlos.
 * Metronome - Einfaches Metronom mit Takt- und Tempokonfiguration  
   Download: [F-Droid](https://f-droid.org/app/com.mustupid.metronome)  
   Lizenz: Kostenlos und Open Source.
