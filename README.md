@@ -2,6 +2,8 @@ Für Blinde und Sehbehinderte zugängliche Android-Apps
 =====================================================
 Zusammengestellt von Steffen Schultz.
 
+Status: [![Link Checker](https://github.com/schulle4u/awesome-android-accessibility/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/schulle4u/awesome-android-accessibility/actions/workflows/linkcheck.yml)
+
 ## Einleitung
 
 Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
