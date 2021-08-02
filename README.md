@@ -462,6 +462,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Number Guesser - einfaches Zahlenratespiel  
   Download: [F-Droid](https://f-droid.org/de/packages/com.numguesser.tonio_rpchp.numberguesser/)  
   Lizenz: Kostenlos und Open Source
+* Sonar Islands - ein ONLINE MULTIPLAYER Spiel, bei dem alle relevanten Dinge in deinen Ohren passieren.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=eu.mentalhome.sonarislands)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Sound Of Magic - eine Mischung aus Hörspiel und Point-And-Click-Adventure  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.everbytestudio.audiogames.soundofmagic)  
   Lizenz: Kostenlose Demo, bietet In-App-Käufe an.
