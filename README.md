@@ -462,6 +462,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Number Guesser - einfaches Zahlenratespiel  
   Download: [F-Droid](https://f-droid.org/de/packages/com.numguesser.tonio_rpchp.numberguesser/)  
   Lizenz: Kostenlos und Open Source
+* Quinb - ein Mehrspieler-Reaktions- und Logikspiel mit verschiedenen Minispielen, enthält auch diverse Audiospiele.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb) oder [F-Droid](https://f-droid.org/de/packages/xyz.deepdaikon.quinb/)  
+  Lizenz: Kostenlos und Open Source.
 * Sonar Islands - ein ONLINE MULTIPLAYER Spiel, bei dem alle relevanten Dinge in deinen Ohren passieren.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.mentalhome.sonarislands)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
