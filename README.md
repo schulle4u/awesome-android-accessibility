@@ -462,6 +462,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Number Guesser - einfaches Zahlenratespiel  
   Download: [F-Droid](https://f-droid.org/de/packages/com.numguesser.tonio_rpchp.numberguesser/)  
   Lizenz: Kostenlos und Open Source
+* PartyGames - Spiele bekannte Party-Spiele wie Wahrheit oder pflicht.  
+  Download: [F-Droid](https://f-droid.org/packages/de.rmrf.partygames/)  
+  Lizenz: Kostenlos und Open Source.
 * Quinb - ein Mehrspieler-Reaktions- und Logikspiel mit verschiedenen Minispielen, enthält auch diverse Audiospiele.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb) oder [F-Droid](https://f-droid.org/de/packages/xyz.deepdaikon.quinb/)  
   Lizenz: Kostenlos und Open Source.
