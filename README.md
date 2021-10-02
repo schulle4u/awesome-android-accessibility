@@ -283,6 +283,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * GoldWave - Audio-Editor, Recorder und Konverter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.goldwave.GoldWave)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* GoneMAD Music Player - umfangreich anpassbarer Musikplayer.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=gonemad.gmmp), [Unlocker](https://play.google.com/store/apps/details?id=gonemad.gmmp.unlocker)  
+  Lizenz: Kostenlose Testversion, Kauf nach 14 Tagen erforderlich.  
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
