@@ -525,6 +525,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Aegis Authenticator - generiert 2FA-Schlüssel (Zwei-Faktor-Authentisierung)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) oder [F-Droid](https://f-droid.org/de/packages/com.beemdevelopment.aegis)  
   Lizenz: Kostenlos und Open Source.
+* Camera Folder - Hilfsanwendung, um aus Apps, die das Öffnen von Bild-Dateien unterstützen, ein Bild mit der Kamera aufzunehmen.  
+  Download: [F-Droid](https://f-droid.org/packages/de.k3b.android.camerafolder/)  
+  Lizenz: Kostenlos und Open Source.
 * BirdNET - Vogelstimmen einfach erkennen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet)  
   Lizenz: Kostenlos.
