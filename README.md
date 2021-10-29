@@ -441,6 +441,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Amazon Shopping  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping).  
   Lizenz: Kostenlos, enthält Werbung.
+* Catima - ein digitales Kartenetui für Gutscheine und Kundenkarten.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima) oder [F-Droid](https://f-droid.org/de/packages/me.hackerchick.catima/)  
+  Lizenz: Kostenlos und Open Source.
 * eBay Kleinanzeigen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen)  
   Lizenz: Kostenlos, enthält Werbung.
