@@ -555,6 +555,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * GitHub - offizieller GitHub-Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.android)  
   Lizenz: Kostenlos.
+* IFTTT - verschiedene Apps, Dienste und Geräte miteinander verbinden.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifttt.ifttt)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Metronome - Einfaches Metronom mit Takt- und Tempokonfiguration  
   Download: [F-Droid](https://f-droid.org/app/com.mustupid.metronome)  
   Lizenz: Kostenlos und Open Source.
