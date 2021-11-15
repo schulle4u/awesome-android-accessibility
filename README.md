@@ -55,9 +55,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ## Browser
 
-* Ariane - ein Browser für das [Gemini-Protokoll](https://de.wikipedia.org/wiki/Geminispace).  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=oppen.gemini.ariane) oder [Entwickler-Website](https://oppen.digital/software/oppensmolnet/ariane/download.gmi)  
-  Lizenz: Kostenlos und Open Source.
 * Mozilla Firefox  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox)  
   Lizenz: Kostenlos und Open Source.
