@@ -167,6 +167,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * QR & Barcode Scanner  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.gamma.scan)  
   Lizenz: Kostenlos, enthält Werbung
+* QR & Barcode-Scanner - datenschutzfreundlicher Scanner, entwickelt von der SECUSO-Forschungsgruppe an der TU Darmstadt.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)  
+  Lizenz: Kostenlos und Open Source.
 * RHVoice - kostenlose Sprachsynthese für u. a. englisch und russisch, deutsch wird derzeit noch nicht unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android), [F-droid](https://f-droid.org/de/packages/com.github.olga_yakovleva.rhvoice.android/) oder [GitHub](https://github.com/Olga-Yakovleva/RHVoice/blob/master/doc/en/Binaries.md).  
   Lizenz: Kostenlos und Open Source.
