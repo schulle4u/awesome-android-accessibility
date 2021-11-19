@@ -45,10 +45,12 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ## Banking
 
+**Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch sollte TalkBack als Systemdienst laufen.
+
 * PayPal - einfach Geld senden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
   Lizenz: Kostenlos
-* Sparkasse - Ihre mobile Filiale (es gibt Berichte über Zugänglichkeitsprobleme, scheint jedoch modellabhängig zu sein. Getestet auf einem Moto G7 Plus mit Android 10).  
+* Sparkasse - Ihre mobile Filiale.  
   Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
   Lizenz: Kostenlos, enthält Werbung.
 
