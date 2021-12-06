@@ -160,6 +160,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * KNFB Reader - Dokumentenerkennung (Achtung, aktuell nicht unter Android 10 nutzbar).  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
+* Legere Scanner - Dokumentenerkennung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
+  Lizenz: Kostenpflichtig.
 * Lookout von Google - Lookout nutzt maschinelles Sehen, um Menschen mit eingeschränktem Sehvermögen oder einer Sehbehinderung dabei zu helfen, Aufgaben schneller und einfacher zu erledigen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal)  
   Lizenz: Kostenlos.
@@ -196,9 +199,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Vocalizer Sprachausgabe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* Legere Scanner - Dokumentenerkennung.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
-  Lizenz: Kostenpflichtig.
 
 
 ## Kommunikation
@@ -300,6 +300,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
   Lizenz: Kostenlos.
+* Legere Reader - eBooks lesen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
+  Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
 * MPD Remote - Ein [MPD](https://de.wikipedia.org/wiki/Music_Player_Daemon) Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.prezz.mpr)  
   Lizenz: Kostenlos und Open Source.
@@ -339,9 +342,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
-* Legere Reader - eBooks lesen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
-  Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
 * Zapp - Android-Client für MediathekView, deutsche Video-Streams von öffentlich-rechtlichen Sendern.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.christinecoenen.code.zapp/)  
   Lizenz: Kostenlos und Open Source.
@@ -422,7 +422,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * AndStatus - Client für GNU social, Mastodon, Twitter und Pump.io.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.andstatus.app) oder [F-Droid](https://f-droid.org/de/packages/org.andstatus.app)  
   Lizenz: Kostenlos und Open Source.
-* Clubhouse - Audiobasiertes soziales Netzwerk, man benötigt derzeit noch eine Einladung  
+* Clubhouse - Audiobasiertes soziales Netzwerk  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.clubhouse.app)  
   Lizenz: Kostenlos.
 * Facebook  
