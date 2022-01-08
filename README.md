@@ -85,6 +85,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Microsoft Word - Dokumente verfassen und bearbeiten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.word)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Mopria Scan - gedruckte Dokumente über netzwerkfähige Scanner und Multifunktionsdrucker digitalisieren (**Hinweis: Keine Texterkennung!**)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.mopria.scan.application)  
+  Lizenz: Kostenlos.
 * OpenDocumentReader - Lesen und bearbeiten von mit Libre/OpenOffice erstellten Dokumenten, viele weitere Formate können angezeigt werden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=at.tomtasche.reader) oder [F-Droid](https://f-droid.org/de/packages/at.tomtasche.reader/)  
   Lizenz: Kostenlos, PlayStore-Version enthält Werbung und bietet In-App-Käufe an.
