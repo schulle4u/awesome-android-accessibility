@@ -58,7 +58,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 ## Browser
 
 * Mozilla Firefox  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox) oder [als Fennec bei F-Droid](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/)  
   Lizenz: Kostenlos und Open Source.
 * Microsoft Edge  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)  
