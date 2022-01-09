@@ -336,6 +336,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Smart AudioBook Player - Hörbuch-Abspiel-App; Funktionen u.a.: Sleep Timer und Smartphone drehen, um die Wiedergabe zu pausieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)  
   Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
+* SpotiFlyer - Songs und Alben von Spotify, Youtube und weiteren Diensten herunterladen  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.shabinder.spotiflyer/) oder [GitHub](https://github.com/Shabinder/SpotiFlyer/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
