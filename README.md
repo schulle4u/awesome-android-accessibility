@@ -47,12 +47,18 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 **Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch sollte TalkBack als Systemdienst laufen.
 
+* ING Banking to go
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ingdiba.bankingapp)
+  Lizenz: Kostenlos
 * PayPal - einfach Geld senden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
   Lizenz: Kostenlos
 * Sparkasse - Ihre mobile Filiale.  
   Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
   Lizenz: Kostenlos, enthält Werbung.
+* VR-SecureGo plus - Zahlungen freigeben für Kunden der VR-Banken.
+  Link: [Google Play](https://play.google.com/store/apps/details?id=de.fiduciagad.securego.vr)
+  Lizenz: kostenlos
 
 
 ## Browser
@@ -104,6 +110,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Dropbox  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.dropbox.android)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Microsoft OneDrive - Zugriff auf Dateien in der Microsoft-Cloud.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)
+  Lizenz: kostenlos, Kosten für Speicherplatz in OneDrive fallen ggf. separat an.
 * Nextcloud - die Nextcloud App erlaubt Dir Zugriff auf alle Dateien in Deiner Nextcloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client) oder [F-Droid](https://f-droid.org/de/packages/com.nextcloud.client)  
   Lizenz: Kostenlos und Open Source.
@@ -321,6 +330,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
+* Pocket Casts - Podcast-Player.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+  Lizenz: kostenlos mit optionalen In-App-Käufen.
 * Radio.de - Der Radioplayer für FM, DAB+ & Webradio   
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
   Lizenz: Kostenlos, enthält Werbung.
@@ -339,6 +351,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SpotiFlyer - Songs und Alben von Spotify, Youtube und weiteren Diensten herunterladen  
   Download: [F-Droid](https://f-droid.org/de/packages/com.shabinder.spotiflyer/) oder [GitHub](https://github.com/Shabinder/SpotiFlyer/releases/latest)  
   Lizenz: Kostenlos und Open Source.
+* Storytel - Hörbücher & E-Books im  Streaming-Abo.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=grit.storytel.app)
+  Lizenz: kostenlos, mit In-App-Käufe und Abo-Modell.
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
@@ -361,6 +376,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ## Nachrichten
 
+* DER SPIEGEL
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.spiegel.android.app.spon)
+  Lizenz: kostenlos mit In-App-Käufe.
 * Feeder - Einfacher RSS-Leser
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) oder [F-Droid](https://f-droid.org/de/packages/com.nononsenseapps.feeder/)  
   Lizenz: Kostenlos und Open Source.
@@ -400,6 +418,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
   Lizenz: Kostenlos.
+* FahrPlaner - Reisepläne und Fahrplanauskunft, vorwiegend für den Verkehrsverbund Bremen und Niedersachsen,  aber auch für ganz Deutschland.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.vbn) 
+  Lizenz: kostenlos
 * FlixBus - Fernbus durch Europa.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.flixbus.app)  
   Lizenz: Kostenlos.
@@ -452,6 +473,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Amazon Shopping  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping).  
   Lizenz: Kostenlos, enthält Werbung.
+* Bring! Einkaufsliste - Einkaufslisten-App mit umfangreichen Features und Sprachbedienung via Google Assistant.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ch.publisheria.bring)
+  Lizenz: kostenlos, enthält Werbung und In-App-Käufe.
 * Catima - ein digitales Kartenetui für Gutscheine und Kundenkarten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima) oder [F-Droid](https://f-droid.org/de/packages/me.hackerchick.catima/)  
   Lizenz: Kostenlos und Open Source.
