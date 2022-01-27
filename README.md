@@ -614,6 +614,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * NotificationLog - protokolliert Benachrichtigungen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.jl.notificationlog) oder [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
   Lizenz: Kostenlos und Open Source.
+* NTFY - Benachrichtigungen via Shell-Scripts auf dem Smartphone empfangen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) oder [F-Droid](https://f-droid.org/de/packages/io.heckel.ntfy/)  
+  Lizenz: Kostenlos und Open Source.
 * Ookla Speedtest - Internetgeschwindigkeit testen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
