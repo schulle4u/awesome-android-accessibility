@@ -612,7 +612,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/de/packages/de.csicar.ning/)  
   Lizenz: Kostenlos und Open Source.
 * NotificationLog - protokolliert Benachrichtigungen  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.jl.notificationlog) oder [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
   Lizenz: Kostenlos und Open Source.
 * NTFY - Benachrichtigungen via Shell-Scripts auf dem Smartphone empfangen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) oder [F-Droid](https://f-droid.org/de/packages/io.heckel.ntfy/)  
