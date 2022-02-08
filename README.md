@@ -172,9 +172,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * eSpeak-NG - leichtgewichtige Sprachausgabe mit Unterstützung für zahlreiche Sprachen. Achtung, die erste Aktivierung ist etwas knifflig, da erst die Sprachdaten installiert werden müssen und das Gerät daher eventuell nicht spricht.  
   Download: [F-Droid](https://f-droid.org/packages/com.reecedunn.espeak)  
   Lizenz: Kostenlos und Open Source.
-* KNFB Reader - Dokumentenerkennung (Achtung, aktuell nicht unter Android 10 nutzbar).  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
-  Lizenz: Kostenpflichtig.
 * Legere Scanner - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
   Lizenz: Kostenpflichtig.
@@ -184,6 +181,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * MCT Money Reader - Geldscheine erkennen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.mctdata.ParaTanima)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* OneStep Reader - Dokumentenerkennung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
+  Lizenz: Kostenpflichtig.
 * QR & Barcode Scanner  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.gamma.scan)  
   Lizenz: Kostenlos, enthält Werbung
