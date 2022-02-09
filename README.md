@@ -584,6 +584,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * CPU Info - Informationen über die Hardware und Software des Gerätes  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo) oder [F-Droid](https://f-droid.org/de/packages/com.kgurgul.cpuinfo/)  
   Lizenz: Kostenlos und Open Source.
+* DeepL Übersetzer  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)  
+  Lizenz: Kostenlos.
 * Dicio - mehrsprachiger und quelloffener Sprach-Assistent  
   Download: [F-droid](https://f-droid.org/packages/org.dicio.dicio_android/) oder [GitHub](https://github.com/Stypox/dicio-android/releases/latest)  
   Lizenz: Kostenlos und Open Source.
