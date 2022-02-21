@@ -318,9 +318,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
-* MPD Remote - Ein [MPD](https://de.wikipedia.org/wiki/Music_Player_Daemon) Client  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=net.prezz.mpr)  
-  Lizenz: Kostenlos und Open Source.
 * NewPipe - alternative Youtube-App, die u. a. das Herunterladen von Videos erlaubt.  
   Download: [F-droid](https://f-droid.org/de/packages/org.schabi.newpipe)  
   Lizenz: Kostenlos und Open Source
@@ -409,9 +406,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Ampel-Pilot - Erkennen von Fußgänger-Ampelphasen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.tensorflow.ampelpilot)  
   Lizenz: Kostenlos.
-* AroundME - Geschäfte anhand der aktuellen Position auflisten.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.tweakersoft.aroundme)  
-  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * DB Bahnhof live - Haltestellen- und Bahnhofsinformationen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschebahn.bahnhoflive)  
   Lizenz: Kostenlos.
