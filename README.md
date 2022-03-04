@@ -605,6 +605,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Narwhal - Android-Client für NVDA Remote.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=im.vortex.narwall)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* NFC Tools - eine App, mit der sich Aufgaben auf NFC-Tags und anderen kompatiblen NFC-Chips lesen, schreiben und programmieren lassen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc)  
+  Lizenz: Kostenlos.
 * Ning - lokales Netzwerk nach Geräten scannen  
   Download: [F-Droid](https://f-droid.org/de/packages/de.csicar.ning/)  
   Lizenz: Kostenlos und Open Source.
