@@ -305,7 +305,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlose Testversion, Kauf nach 14 Tagen erforderlich.  
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
-  Lizenz: Kostenpflichtig, [Testversion verfügbar](https://play.google.com/store/apps/details?id=com.hiqrecorder.free).
+  Lizenz: Kostenpflichtig.
 * Homer Player - Hörbuch-Player mit sehr einfacher Oberfläche  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.studio4plus.homerplayer) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/com.studio4plus.homerplayer)  
   Lizenz: Kostenlos und Open Source.
