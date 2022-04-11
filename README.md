@@ -170,7 +170,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: 14 Tage kostenlos, danach ist ein Abo notwendig.  
 * eSpeak-NG - leichtgewichtige Sprachausgabe mit Unterstützung für zahlreiche Sprachen. Achtung, die erste Aktivierung ist etwas knifflig, da erst die Sprachdaten installiert werden müssen und das Gerät daher eventuell nicht spricht.  
-  Download: [F-Droid](https://f-droid.org/packages/com.reecedunn.espeak)  
+  Download: [F-Droid](https://f-droid.org/packages/com.reecedunn.espeak) oder [GitHub](https://github.com/espeak-ng/espeak-ng/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Legere Scanner - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
