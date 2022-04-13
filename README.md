@@ -406,6 +406,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Wetter.com - Wetter und Regenradar.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.wetter.androidclient)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* ZDFheute - Nachrichten und Videos des ZDF.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.heute.mobile)  
+  Lizenz: Kostenlos.
 
 ## Navigation und Verkehr
 
