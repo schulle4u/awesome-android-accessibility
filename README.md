@@ -79,6 +79,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Adobe Acrobat Reader - PDF bearbeiten & erstellen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Editor - generischer Text-Editor  
+  Download: [F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/) oder [GitHub](https://github.com/billthefarmer/editor/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * EZ Notes - mobiler notizblock mit Spracherkennung  
   Download via Google Play: [Vollversion](https://play.google.com/store/apps/details?id=com.pristineusa.android.speechtotext) oder [Lite-Version](https://play.google.com/store/apps/details?id=com.pristineusa.android.speechtotextlite)  
   Lizenz: Kostenpflichtig, Lite-Version kostenlos.
