@@ -360,7 +360,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* Transistor Radio - minimalistische Internetradio-App, die ihre Sender als M3U-Dateien speichert.  
+* Transistor Radio - minimalistische Internetradio-App, speichert eigene Streams und kann bei Bedarf via Radio-Browser nach Sendern suchen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.y20k.transistor) oder [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor)  
   Lizenz: Kostenlos und Open Source.
 * TV-Browser vP - TV- und Radioprogrammvorschau  
