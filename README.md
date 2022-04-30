@@ -119,6 +119,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Nextcloud - die Nextcloud App erlaubt Dir Zugriff auf alle Dateien in Deiner Nextcloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client) oder [F-Droid](https://f-droid.org/de/packages/com.nextcloud.client)  
   Lizenz: Kostenlos und Open Source.
+* primitive ftpd - richtet einen FTP- oder SFTP-Server auf dem Gerät ein.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.primftpd) oder [F-Droid](https://f-droid.org/de/packages/org.primftpd/)  
+  Lizenz: Kostenlos und Open Source.
 * RCX - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx) oder [F-Droid](https://f-droid.org/de/packages/io.github.x0b.rcx/)  
   Lizenz: Kostenlos und Open Source.
