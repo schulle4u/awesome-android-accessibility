@@ -306,6 +306,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * DZB - Mit der App der DZB können Sie als Nutzerin und Nutzer der Bibliothek DAISY-Bücher hören  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.dzb.dzb_app)  
   Lizenz: Kostenlos.
+* Easy Voice Recorder Pro - Aufnahme-App, bietet umfangreiche Konfigurationsmöglichkeiten, Widgets und Cloud-Upload.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro)  
+  Lizenz: Kostenpflichtig, werbefinanzierte Version verfügbar.
 * GoldWave - Audio-Editor, Recorder und Konverter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.goldwave.GoldWave)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
