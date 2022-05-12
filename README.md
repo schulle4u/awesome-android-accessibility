@@ -230,6 +230,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* Element - Sicherer Messenger - Matrix-Client
+  Download: [Google Play](https://play.google.com/store/apps/details?id=im.vector.app) oder [F-Droid](https://f-droid.org/de/packages/im.vector.app/)  
+  Lizenz: Kostenlos und Open Source.
 * Facebook Messenger - Kostenlose Nachrichten und Videoanrufe  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -448,6 +451,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Öffi - Fahrplanauskunft.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi) oder [F-Droid](https://f-droid.org/de/packages/de.schildbach.oeffi/)  
   Lizenz: Kostenlos und Open Source.
+* OsmAnd - Karten und GPS Offline
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.osmand) oder [F-Droid](https://f-droid.org/de/packages/net.osmand.plus/)  
+  Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
@@ -500,12 +506,18 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * A Western Drama - ein Audiospiel mit einer tiefsinnigen Geschichte, die vom Wilden Westen in Amerika in der Zeit des 19. Jahrhunderts handelt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ThreeBit.AWDEng)  
   Lizenz: Kostenpflichtig
+* Alt-Frequencies - Mystery-Spiel das durch Aufnahme und Übertragung aus Radiosendern gespielt wird
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.accidentalqueens.altfrequenciesandroid)  
+  Lizenz: Kostenpflichtig
 * Antimine - Ein Puzzle-Spiel, in dem du nach allen verborgenen Minen suchst.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato) oder [F-Droid](https://f-droid.org/de/packages/dev.lucanlm.antimine/)  
   Lizenz: Kostenlos und Open Source
 * Audio Game Hub - verschiedene Arcade-Games in einer App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Blind Drive - Autoabenteuer *schwarzer Humor* 
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.lofipeople.blinddrive)  
+  Lizenz: Kostenpflichtig
 * Enchanted Fortress - eine Burg aufbauen, bewirtschaften und verteidigen.  
   Download: [F-Droid](https://f-droid.org/de/packages/hr.kravarscan.enchantedfortress/)  
   Lizenz: Kostenlos und Open Source
