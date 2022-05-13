@@ -116,6 +116,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Microsoft OneDrive - Zugriff auf Dateien in der Microsoft-Cloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)  
   Lizenz: Kostenlos, Bietet In-App-Käufe an.
+* Mixplorer - Dateiexplorer mit Netzwerkzugriff, Ver- und Entpacken von Archiven, Cloudspeicheranbindung und vielen weiteren Funktionen, einige davon benötigen aber Root-Zugriff  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.mixplorer.silver) oder [über XDA-Developers auf Entwicklerseite verlinkt](https://mixplorer.com/)  
+  Lizenz: Kostenlos, Play-Store-Version kostenpflichtig um den Entwickler zu unterstützen.
 * Nextcloud - die Nextcloud App erlaubt Dir Zugriff auf alle Dateien in Deiner Nextcloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client) oder [F-Droid](https://f-droid.org/de/packages/com.nextcloud.client)  
   Lizenz: Kostenlos und Open Source.
@@ -214,6 +217,12 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Sullivan+ - Texterkennung, Szenenbeschreibung und weitere Funktionen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=tuat.kr.sullivan)  
   Lizenz: Kostenlos.
+* Supersense - AI for Blind  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.mediate.supersense)  
+  Lizenz: Kostenlos.
+* Talkback-FOSS - OpenSource-Weiterentwicklung von Talkback mit erweiterten Funktionen und weniger Google-Abhängigkeiten  
+  Download: [GitHub - APK muss selbst kompiliert werden](https://github.com/talkback-foss-team/talkback-foss/)  
+  Lizenz: Kostenlos und Open Source.
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
@@ -230,7 +239,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
-* Element - Sicherer Messenger - Matrix-Client
+* Element - Sicherer Messenger - Matrix-Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=im.vector.app) oder [F-Droid](https://f-droid.org/de/packages/im.vector.app/)  
   Lizenz: Kostenlos und Open Source.
 * Facebook Messenger - Kostenlose Nachrichten und Videoanrufe  
@@ -363,6 +372,12 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Smart AudioBook Player - Hörbuch-Abspiel-App; Funktionen u.a.: Sleep Timer und Smartphone drehen, um die Wiedergabe zu pausieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)  
   Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
+* SoundHound - Musikerkennung was gerade läuft  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier)  
+  Lizenz: Kostenpflichtig, werbefinanzierte Version verfügbar.
+* Spotify: Musik und Podcasts  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)  
+  Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
 * SpotiFlyer - Songs und Alben von Spotify, Youtube und weiteren Diensten herunterladen  
   Download: [F-Droid](https://f-droid.org/de/packages/com.shabinder.spotiflyer/) oder [GitHub](https://github.com/Shabinder/SpotiFlyer/releases/latest)  
   Lizenz: Kostenlos und Open Source.
@@ -451,7 +466,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Öffi - Fahrplanauskunft.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi) oder [F-Droid](https://f-droid.org/de/packages/de.schildbach.oeffi/)  
   Lizenz: Kostenlos und Open Source.
-* OsmAnd - Karten und GPS Offline
+* OsmAnd - Karten und GPS Offline  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.osmand) oder [F-Droid](https://f-droid.org/de/packages/net.osmand.plus/)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
@@ -506,7 +521,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * A Western Drama - ein Audiospiel mit einer tiefsinnigen Geschichte, die vom Wilden Westen in Amerika in der Zeit des 19. Jahrhunderts handelt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ThreeBit.AWDEng)  
   Lizenz: Kostenpflichtig
-* Alt-Frequencies - Mystery-Spiel das durch Aufnahme und Übertragung aus Radiosendern gespielt wird
+* Alt-Frequencies - Mystery-Spiel das durch Aufnahme und Übertragung aus Radiosendern gespielt wird  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.accidentalqueens.altfrequenciesandroid)  
   Lizenz: Kostenpflichtig
 * Antimine - Ein Puzzle-Spiel, in dem du nach allen verborgenen Minen suchst.  
@@ -515,7 +530,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Audio Game Hub - verschiedene Arcade-Games in einer App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* Blind Drive - Autoabenteuer *schwarzer Humor* 
+* Blind Drive - Autoabenteuer *schwarzer Humor*  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.lofipeople.blinddrive)  
   Lizenz: Kostenpflichtig
 * Enchanted Fortress - eine Burg aufbauen, bewirtschaften und verteidigen.  
@@ -575,6 +590,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SwiftKey Tastatur  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)  
   Lizenz: Kostenlos.
+* Tasker - Automatisierungsaufgaben anlegen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)  
+  Lizenz: Kostenlos und Open Source.
 * Text Launcher - der wohl kleinstmögliche Android-Launcher, enthält nur eine alphabetische App-Liste.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ademar.textlauncher) oder [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
   Lizenz: Kostenlos und Open Source.
@@ -583,6 +601,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 * Aegis Authenticator - generiert 2FA-Schlüssel (Zwei-Faktor-Authentisierung)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) oder [F-Droid](https://f-droid.org/de/packages/com.beemdevelopment.aegis)  
+  Lizenz: Kostenlos und Open Source.
+* andOTP - quelloffene Anwendung zur Zwei-Faktor-Authentifizierung  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp) oder [F-Droid](https://f-droid.org/de/packages/org.shadowice.flocke.andotp/)  
   Lizenz: Kostenlos und Open Source.
 * Camera Folder - Hilfsanwendung, um aus Apps, die das Öffnen von Bild-Dateien unterstützen, ein Bild mit der Kamera aufzunehmen.  
   Download: [F-Droid](https://f-droid.org/packages/de.k3b.android.camerafolder/)  
@@ -649,6 +670,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos und Open Source.
 * Phyphox - Physikexperimente mit dem Telefon durchführen (Experimente sind häufig nur in der vereinfachten Ansicht zugänglich)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) oder [F-Droid](https://f-droid.org/de/packages/de.rwth_aachen.phyphox)  
+  Lizenz: Kostenlos und Open Source.
+* Tower Collector - Positionen von Sendemasten aufzeichnen und damit Projekten wie OpenCellId und Mozilla Location Services helfen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector) oder [F-Droid](https://f-droid.org/de/packages/info.zamojski.soft.towercollector/)  
   Lizenz: Kostenlos und Open Source.
 * WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
