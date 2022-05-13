@@ -219,7 +219,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 * Supersense - AI for Blind  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.mediate.supersense)  
-  Lizenz: Kostenlos.
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Talkback-FOSS - OpenSource-Weiterentwicklung von Talkback mit erweiterten Funktionen und weniger Google-Abhängigkeiten  
   Download: [GitHub - APK muss selbst kompiliert werden](https://github.com/talkback-foss-team/talkback-foss/)  
   Lizenz: Kostenlos und Open Source.
