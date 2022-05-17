@@ -674,20 +674,20 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Prepaid-Guthaben - behalte dein prepaid-Guthaben im Auge.  
   Download: [F-Droid](https://f-droid.org/packages/com.github.muellerma.prepaidbalance/)  
   Lizenz: Kostenlos und Open Source.
-* Tower Collector - Positionen von Sendemasten aufzeichnen und damit Projekten wie OpenCellId und Mozilla Location Services helfen  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector) oder [F-Droid](https://f-droid.org/de/packages/info.zamojski.soft.towercollector/)  
-  Lizenz: Kostenlos und Open Source.
-* WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
-  Lizenz: Kostenlos und Open Source.
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock)  
+  Lizenz: Kostenlos und Open Source.
+* Tower Collector - Positionen von Sendemasten aufzeichnen und damit Projekten wie OpenCellId und Mozilla Location Services helfen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector) oder [F-Droid](https://f-droid.org/de/packages/info.zamojski.soft.towercollector/)  
   Lizenz: Kostenlos und Open Source.
 * WaveUp - schaltet den Bildschirm durch Winken über den Nhäherungssensor ein.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.jarsilio.android.waveup) oder [F-Droid](https://f-droid.org/de/packages/com.jarsilio.android.waveup/)  
   Lizenz: Kostenlos und Open Source.
 * Watomatic  - versendet automatische Antworten auf WhatsApp- und Facebook-Nachrichten, ideal für einen Messenger-Wechsel oder als Urlaubs-Antwort.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.parishod.watomatic) oder [F-Droid](https://f-droid.org/de/packages/com.parishod.watomatic/)  
+  Lizenz: Kostenlos und Open Source.
+* WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
   Lizenz: Kostenlos und Open Source.
 * Zeitansage - sag mir die Zeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
