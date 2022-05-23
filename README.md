@@ -575,6 +575,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Hyperion Launcher  
   Download: [Google Play](https://play.google.com/store/apps/details?id=projekt.launcher)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* MacroDroid - Automatisierung von Aufgaben und Einstellungen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Nova Launcher  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)  
   Lizenz: Kostenlos, kostenpflichtige Premiumversion verfügbar.
