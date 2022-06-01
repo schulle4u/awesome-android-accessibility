@@ -388,7 +388,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Transistor Radio - minimalistische Internetradio-App, speichert eigene Streams und kann bei Bedarf via Radio-Browser nach Sendern suchen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.y20k.transistor) oder [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor)  
+  Download: [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor) oder [GitHub](https://github.com/y20k/transistor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * TV-Browser vP - TV- und Radioprogrammvorschau  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.tvbrowser.tvbrowser.play)  
