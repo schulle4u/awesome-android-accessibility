@@ -239,6 +239,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* Delta Chat - Messaging-App auf Basis bestehender E-Mail-Infrastruktur.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=chat.delta), [F-Droid](https://f-droid.org/packages/com.b44t.messenger/) oder [Entwickler-Webseite](https://delta.chat/de/download).  
+  Lizenz: Kostenlos und Open Source.
 * Element - Sicherer Messenger - Matrix-Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=im.vector.app) oder [F-Droid](https://f-droid.org/de/packages/im.vector.app/)  
   Lizenz: Kostenlos und Open Source.
