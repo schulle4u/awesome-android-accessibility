@@ -390,6 +390,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Timbre - Audio/Videos schneiden und konvertieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Timidity AE - MIDI-Player, der die Bibliothek „Timidity++“ verwendet.  
+  Download: [F-Droid](https://f-droid.org/packages/com.xperia64.timidityae/)  
+  Lizenz: Kostenlos und Open Source.
 * Transistor Radio - minimalistische Internetradio-App, speichert eigene Streams und kann bei Bedarf via Radio-Browser nach Sendern suchen.  
   Download: [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor) oder [GitHub](https://github.com/y20k/transistor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
