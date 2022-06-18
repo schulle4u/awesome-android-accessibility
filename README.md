@@ -650,6 +650,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Just 24 Hours+ - großformatige Digitaluhr (für Sehbehinderte sinnvoll)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.chancehorizon.just24hoursplus) oder [F-Droid](https://f-droid.org/de/packages/com.chancehorizon.just24hoursplus/)  
   Lizenz: Kostenlos und Open Source.
+* Markdownr - Links in Markdown umwandeln und teilen.  
+  Download: [F-Droid](https://f-droid.org/packages/com.sanzoghenzo.markdownr/)  
+  Lizenz: Kostenlos und Open Source.
 * Metronome - Einfaches Metronom mit Takt- und Tempokonfiguration  
   Download: [F-Droid](https://f-droid.org/app/com.mustupid.metronome)  
   Lizenz: Kostenlos und Open Source.
