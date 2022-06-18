@@ -353,7 +353,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos und Open Source
 * Noice - entspannende Hintergrundgeräusche  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice) oder [F-Droid](https://f-droid.org/de/packages/com.github.ashutoshgngwr.noice/)  
-  Lizenz: Kostenlos und Open Source.
+  Lizenz: Kostenlos und Open Source, bietet In-App-Käufe an.
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
