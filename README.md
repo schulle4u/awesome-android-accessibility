@@ -445,6 +445,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * ZDFheute - Nachrichten und Videos des ZDF.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.heute.mobile)  
   Lizenz: Kostenlos.
+* ZXTune - Chiptunes-Player.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=app.zxtune).  
+  Lizenz: Kostenlos und Open Source.
 
 ## Navigation und Verkehr
 
