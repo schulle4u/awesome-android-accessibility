@@ -414,9 +414,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * ZXTune - Chiptunes-Player.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=app.zxtune).  
   Lizenz: Kostenlos und Open Source.
-* ZXTune - Chiptunes-Player.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=app.zxtune).  
-  Lizenz: Kostenlos und Open Source.
 
 
 ## Nachrichten
