@@ -88,6 +88,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Adobe Acrobat Reader - PDF bearbeiten & erstellen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* DAVx⁵ - CalDAV/CardDAV-Synchronisierung und -Client.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid), [F-Droid](https://f-droid.org/packages/at.bitfire.davdroid/) und [Weitere auf der Website](https://www.davx5.com/download).  
+  Lizenz: Kostenpflichtig, nur via F-Droid kostenlos und Open Source.
 * Editor - generischer Text-Editor  
   Download: [F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/) oder [GitHub](https://github.com/billthefarmer/editor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
