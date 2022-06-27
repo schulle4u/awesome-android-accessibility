@@ -45,13 +45,16 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ## Banking
 
-**Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch sollte TalkBack als Systemdienst laufen.
+**Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch muss TalkBack als Systemdienst laufen, und vom Hersteller als Screenreader in den Bedienungshilfen registriert worden sein.
 
 * ING Banking to go  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.ingdiba.bankingapp)  
   Lizenz: Kostenlos.
 * PayPal - einfach Geld senden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
+  Lizenz: Kostenlos.
+* Postbank Finanzassistent  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.postbank.finanzassistent).  
   Lizenz: Kostenlos.
 * Sparkasse - Ihre mobile Filiale.  
   Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
