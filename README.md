@@ -67,7 +67,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 ## Browser
 
 * Buran - ein Browser für das Gemini-Protokoll.  
-  Download: [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/corewala.gemini.buran) oder [GitHub](https://github.com/Corewala/Buran/releases/latest).  
+  Download: [F-Droid](https://f-droid.org/de/packages/corewala.gemini.buran/) oder [GitHub](https://github.com/Corewala/Buran/releases/latest).  
   Lizenz: kostenlos und Open Source.
 * Mozilla Firefox  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox) oder [als Fennec bei F-Droid](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/)  
