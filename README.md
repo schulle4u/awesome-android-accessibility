@@ -436,6 +436,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Feeder - Einfacher RSS-Leser  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) oder [F-Droid](https://f-droid.org/de/packages/com.nononsenseapps.feeder/)  
   Lizenz: Kostenlos und Open Source.
+* Fluent Reader Lite - einfacher RSS-Leser für diverse Online-Dienste, unterstützt die APIs Fever, Google Reader und weitere.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite), [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/me.hyliu.fluent_reader_lite) oder [GitHub](https://github.com/yang991178/fluent-reader-lite/releases/latest).  
+  Lizenz: Kostenpflichtig im PlayStore, ansonsten kostenlos und Open Source.
 * Pocket - Eine App zum späteren Lesen von Artikeln  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
