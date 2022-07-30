@@ -229,6 +229,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SmartVoice - automatischer Wechsel der Sprachausgabe durch Erkennung der Eingabesprache, enthält einen Sprachsynthesizer auf Basis von SVox Pico.  
   Download: [Entwickler-Homepage](https://poretsky.github.io/android/smartvoice/)  
   Lizenz: Kostenlos
+* Sprachlabel - Gegenstände mittels NFC-Etiketten beschriften.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.speechlabel)  
+  Lizenz: Kostenlos.
 * Sullivan+ - Texterkennung, Szenenbeschreibung und weitere Funktionen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=tuat.kr.sullivan)  
   Lizenz: Kostenlos.
