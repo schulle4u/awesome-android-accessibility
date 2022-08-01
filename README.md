@@ -120,7 +120,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 ## Dateiverwaltung
 
 * Amaze File Manager - lokale Dateien verwalten.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) oder [F-Droid](https://f-droid.org/de/packages/com.amaze.filemanager/)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)  
   Lizenz: Kostenlos und Open Source.
 * Download Navi - Download-Manager  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tachibana.downloader) oder [F-Droid](https://f-droid.org/de/packages/com.tachibana.downloader)  
