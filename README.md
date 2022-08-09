@@ -24,10 +24,10 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 ## Inhalt
 
 - [App-Liste](#app-liste)
-  * [Banking](#banking)
   * [Browser](#browser)
   * [Büro](#büro)
   * [Dateiverwaltung](#dateiverwaltung)
+  * [Finanzen](#finanzen)
   * [Gesundheit](#gesundheit)
   * [Hilfsmittel](#hilfsmittel)
   * [Kommunikation](#kommunikation)
@@ -42,27 +42,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 - [Lizenz](#lizenz)
 
 # App-Liste
-
-## Banking
-
-**Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch muss TalkBack als Systemdienst laufen, und vom Hersteller als Screenreader in den Bedienungshilfen registriert worden sein.
-
-* ING Banking to go  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ingdiba.bankingapp)  
-  Lizenz: Kostenlos.
-* PayPal - einfach Geld senden.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
-  Lizenz: Kostenlos.
-* Postbank Finanzassistent  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.postbank.finanzassistent).  
-  Lizenz: Kostenlos.
-* Sparkasse - Ihre mobile Filiale.  
-  Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
-  Lizenz: Kostenlos, enthält Werbung.
-* VR-SecureGo plus - Zahlungen freigeben für Kunden der VR-Banken.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.fiduciagad.securego.vr)  
-  Lizenz: Kostenlos.
-
 
 ## Browser
 
@@ -151,6 +130,30 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 * Total Commander - Datei-Manager  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
+  Lizenz: Kostenlos.
+
+
+## Finanzen
+
+**Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch muss TalkBack als Systemdienst laufen, und vom Hersteller als Screenreader in den Bedienungshilfen registriert worden sein.
+
+* Buchhaltung CSV - Ein- und Ausgabenverwaltung.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=at.app.aas.csv4accounting)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* ING Banking to go  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.ingdiba.bankingapp)  
+  Lizenz: Kostenlos.
+* PayPal - einfach Geld senden.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
+  Lizenz: Kostenlos.
+* Postbank Finanzassistent  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.postbank.finanzassistent).  
+  Lizenz: Kostenlos.
+* Sparkasse - Ihre mobile Filiale.  
+  Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
+  Lizenz: Kostenlos, enthält Werbung.
+* VR-SecureGo plus - Zahlungen freigeben für Kunden der VR-Banken.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.fiduciagad.securego.vr)  
   Lizenz: Kostenlos.
 
 
