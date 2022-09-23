@@ -390,6 +390,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * ScreenCam - einfacher Bildschirmrecorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder) oder [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
   Lizenz: Kostenlos und Open Source.
+* Seal - Video- und Audio-Downloader, Frontend für [YT-DLP](https://github.com/yt-dlp/yt-dlp).  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.junkfood.seal/) oder [GitHub](https://github.com/JunkFood02/Seal/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Smart AudioBook Player - Hörbuch-Abspiel-App; Funktionen u.a.: Sleep Timer und Smartphone drehen, um die Wiedergabe zu pausieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)  
   Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
