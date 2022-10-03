@@ -668,6 +668,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Dicio - mehrsprachiger und quelloffener Sprach-Assistent  
   Download: [F-droid](https://f-droid.org/packages/org.dicio.dicio_android/) oder [GitHub](https://github.com/Stypox/dicio-android/releases/latest)  
   Lizenz: Kostenlos und Open Source.
+* Durchwahl - Auslandstelefonate über 0180-Rufnummern.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=la.woop.durchwahl)  
+  Lizenz: Kostenlos.
 * GitHub - offizieller GitHub-Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.android)  
   Lizenz: Kostenlos.
