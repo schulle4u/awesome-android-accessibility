@@ -719,6 +719,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Prepaid-Guthaben - behalte dein prepaid-Guthaben im Auge.  
   Download: [F-Droid](https://f-droid.org/packages/com.github.muellerma.prepaidbalance/)  
   Lizenz: Kostenlos und Open Source.
+* Really Basic Vocab  - einfache Karteikarten-App.  
+  Download: [F-Droid](https://f-droid.org/packages/de.herrmann_engel.rbv/)  
+  Lizenz: Kostenlos und Open Source.
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
