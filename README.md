@@ -423,6 +423,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
+* VRadio - die Online-Sender-App.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ilv.vradio)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Zapp - Android-Client für MediathekView, deutsche Video-Streams von öffentlich-rechtlichen Sendern.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.christinecoenen.code.zapp/)  
   Lizenz: Kostenlos und Open Source.
