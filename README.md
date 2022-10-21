@@ -378,6 +378,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Pocket Casts - Podcast-Player.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Podverse - Quelloffene und Plattform-übergreifende Podcast-App mit Premiumfunktionen.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.podverse) oder [F-Droid](https://f-droid.org/en/packages/com.podverse.fdroid/)  
+  Lizenz: Kostenlos und Open Source, bietet In-App-Käufe an.
 * Radio.de - Der Radioplayer für FM, DAB+ & Webradio   
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.radio.android)  
   Lizenz: Kostenlos, enthält Werbung.
