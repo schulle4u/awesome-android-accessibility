@@ -168,9 +168,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * CovPass - COVID-Zertifikate verwalten  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.rki.covpass.app) oder [F-Droid](https://f-droid.org/de/packages/de.rki.covpass.app/)  
   Lizenz: Kostenlos und Open Source.
-* Darf ich das? - Tagesaktuelle Inzidenzwerte und Corona-Verordnungen für deine Region  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.intradesys.darfichdas)  
-  Lizenz: Kostenlos.
 * MyTherapy - Erinnerung für Medikamente.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy)  
   Lizenz: Kostenlos.
