@@ -698,6 +698,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Narwhal - Android-Client für NVDA Remote.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=im.vortex.narwall)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* NetMonster - sammelt, zeigt und speichert Informationen über Mobilfunkmasten in der Nähe.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster)  
+  Lizenz: Kostenlos, teilweise Open Source.
 * NFC Tools - eine App, mit der sich Aufgaben auf NFC-Tags und anderen kompatiblen NFC-Chips lesen, schreiben und programmieren lassen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc)  
   Lizenz: Kostenlos.
