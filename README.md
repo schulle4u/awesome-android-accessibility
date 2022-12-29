@@ -672,7 +672,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)  
   Lizenz: Kostenlos.
 * Dicio - mehrsprachiger und quelloffener Sprach-Assistent  
-  Download: [F-droid](https://f-droid.org/packages/org.dicio.dicio_android/) oder [GitHub](https://github.com/Stypox/dicio-android/releases/latest)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.stypox.dicio), [F-droid](https://f-droid.org/packages/org.stypox.dicio/) oder [GitHub](https://github.com/Stypox/dicio-android/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Durchwahl - Auslandstelefonate über 0180-Rufnummern.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=la.woop.durchwahl)  
