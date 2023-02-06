@@ -527,9 +527,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Facebook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana)  
   Lizenz: Kostenlos, enthält werbung und bietet In-App-Käufe an.
-* Tweetings for Twitter  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.dwdesign.tweetings)  
-  Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
 * Twitter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.twitter.android)  
   Lizenz: Kostenlos, enthält Werbung.
