@@ -83,7 +83,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter.x)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Markor - Markdown-Editor.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor) oder [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor)  
+  Download: [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor) oder [GitHub](https://github.com/gsantner/markor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Microsoft Word - Dokumente verfassen und bearbeiten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.word)  
