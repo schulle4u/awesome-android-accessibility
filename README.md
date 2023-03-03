@@ -384,6 +384,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * RadioDroid - Internet-Radio-Player mit Aufnahmefunktion, der die Datenbank von www.radio-browser.info verwendet.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2) oder [F-Droid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/)  
   Lizenz: Kostenlos und Open Source.
+* Radionator - einfacher Radio-Player mit Favoritenfunktion und eigenen Streams.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.av.android.radionator)  
+  Lizenz: Kostenlos.
 * Receiver - das Internetradio.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
   Lizenz: Kostenpflichtig.
