@@ -451,6 +451,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Fluent Reader Lite - einfacher RSS-Leser für diverse Online-Dienste, unterstützt die APIs Fever, Google Reader und weitere.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite), [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/me.hyliu.fluent_reader_lite) oder [GitHub](https://github.com/yang991178/fluent-reader-lite/releases/latest).  
   Lizenz: Kostenpflichtig im PlayStore, ansonsten kostenlos und Open Source.
+* OpenBL - Tabellen, Spielpläne und Statistiken der 1. bis 3. Fußball-Bundesliga.  
+  Download: [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.Ounzy.OpenBl)  
+  Lizenz: Kostenlos und Open Source.
 * Pocket - Eine App zum späteren Lesen von Artikeln  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
