@@ -518,7 +518,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
 * [WalkersGuide](https://www.walkersguide.org) - Fußgängerrouten für Blinde und Sehbehinderte, basierend auf [OpenStreetMap](https://www.openstreetmap.org)  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/org.walkersguide.android)  
   Lizenz: Kostenlos und Open Source.
 
 
@@ -735,7 +735,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/packages/de.herrmann_engel.rbv/)  
   Lizenz: Kostenlos und Open Source.
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
 * Tower Collector - Positionen von Sendemasten aufzeichnen und damit Projekten wie OpenCellId und Mozilla Location Services helfen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector) oder [F-Droid](https://f-droid.org/de/packages/info.zamojski.soft.towercollector/)  
