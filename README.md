@@ -686,6 +686,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * GitHub - offizieller GitHub-Client  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.android)  
   Lizenz: Kostenlos.
+* HTTP Request Shortcuts - Platziere Shortcuts auf deinem Home Screen um HTTP-Requests an deine Lieblings-REST-APIs und Webservices zu verschicken.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ch.rmy.android.http_shortcuts) oder [F-Droid](https://f-droid.org/de/packages/ch.rmy.android.http_shortcuts/)  
+  Lizenz: Kostenlos und Open Source.
 * IFTTT - verschiedene Apps, Dienste und Geräte miteinander verbinden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifttt.ifttt)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
