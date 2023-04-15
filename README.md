@@ -184,9 +184,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Be My Eyes - Hilfe für Blinde und Sehbehinderte.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
   Lizenz: Kostenlos.
-* Blindo - benutzerdefinierte Labels für TalkBack.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.pbaltazar.blindo)  
-  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Cash Reader - Identifizierung von Geldscheinen in verschiedenen Währungen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.martindoudera.cashreader)  
   Lizenz: Kostenlos, In-App-Käufe für vollständige Währungserkennung.
