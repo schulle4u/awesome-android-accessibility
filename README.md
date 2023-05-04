@@ -290,7 +290,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * TeamTalk - Server-basierte Sprach- und Videokonferenzen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=dk.bearware.gui) oder [als APK beim Entwickler](https://bearware.dk/?page_id=353)  
   Lizenz: Kostenlos.
-* Telegram - eine auf Geschwindigkeit und Sicherheit fokussierte Messaging-App.  
+* Telegram - eine auf Geschwindigkeit und Sicherheit fokussierte Messaging-App.[^1]  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)  oder [F-Droid](https://f-droid.org/de/packages/org.telegram.messenger)  
   Lizenz: Kostenlos und (teilweise) Open Source).
 * Threema  
@@ -324,7 +324,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * BliBu - App der norddeutschen Blindenhörbücherei.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
   Lizenz: Kostenlos.
-* Colibrio Reader - ein für TalkBack optimierter eBook-Reader, unterstützt die Bedienung mittels TalkBack-Aktionsgesten.  
+* Colibrio Reader - ein für TalkBack optimierter eBook-Reader.[^1]  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.colibrio.reader)  
   Lizenz: Kostenlos.
 * Cool Mic - Streaming-Client für Icecast.  
@@ -448,7 +448,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * DER SPIEGEL  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.spiegel.android.app.spon)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* Feeder - Einfacher RSS-Leser  
+* Feeder - Einfacher RSS-Leser[^1]  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) oder [F-Droid](https://f-droid.org/de/packages/com.nononsenseapps.feeder/)  
   Lizenz: Kostenlos und Open Source.
 * Fluent Reader Lite - einfacher RSS-Leser für diverse Online-Dienste, unterstützt die APIs Fever, Google Reader und weitere.  
@@ -539,7 +539,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Twitter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.twitter.android)  
   Lizenz: Kostenlos, enthält Werbung.
-* Tusky for Mastodon  
+* Tusky for Mastodon[^1]  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) oder [F-Droid](https://f-droid.org/de/packages/com.keylesspalace.tusky)  
   Lizenz: Kostenlos und Open Source.
 
@@ -762,6 +762,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
   Lizenz: Kostenlos.
 
+[^1]: Die App unterstützt TalkBack-Aktionen im Kontextmenü oder der Navigationssteuerung. 
 
 # Lizenz
 
