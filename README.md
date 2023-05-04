@@ -762,8 +762,8 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
   Lizenz: Kostenlos.
 
-[^1]: Die App unterstützt TalkBack-Aktionen im Kontextmenü oder der Navigationssteuerung. 
-
 # Lizenz
 
 Dieses Werk wurde unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/schulle4u/awesome-android-accessibility/blob/master/LICENSE) freigegeben.
+
+[^1]: Die App unterstützt TalkBack-Aktionen im Kontextmenü oder der Navigationssteuerung. 
