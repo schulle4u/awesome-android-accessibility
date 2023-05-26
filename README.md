@@ -295,7 +295,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos und (teilweise) Open Source).
 * Threema  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ch.threema.app) oder [als APK im Threema-Shop](https://shop.threema.ch/).  
-  Lizenz: Kostenpflichtig.
+  Lizenz: Kostenpflichtig und teilweise Open Source.
 * WhatsApp Messenger  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)  
   Lizenz: Kostenlos, Werbung angekündigt.
