@@ -388,7 +388,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.bnyro.recorder) oder [GitHub](https://github.com/Bnyro/RecordYou/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * ScreenCam - einfacher Bildschirmrecorder  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder) oder [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
   Lizenz: Kostenlos und Open Source.
 * Seal - Video- und Audio-Downloader, Frontend für [YT-DLP](https://github.com/yt-dlp/yt-dlp).  
   Download: [F-Droid](https://f-droid.org/de/packages/com.junkfood.seal/) oder [GitHub](https://github.com/JunkFood02/Seal/releases/latest)  
