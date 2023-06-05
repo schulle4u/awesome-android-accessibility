@@ -17,5 +17,5 @@ Wenn du bereits mehr Erfahrung im Umgang mit GitHub-Repositories hast, kannst du
 
 
 ## Sonstige Kontaktmöglichkeiten
-Auch wer kein GitHub-Profi ist, kann selbstverständlich Vorschläge einreichen. Kontaktiere mich einfach via [Twitter](https://twitter.com/schulle4u), [Mastodon](https://troet.cafe/@radiorobbe) oder [E-Mail](mailto:steffenschultz@mailbox.org). 
+Auch wer kein GitHub-Profi ist, kann selbstverständlich Vorschläge einreichen. Kontaktiere mich einfach via [Mastodon](https://troet.cafe/@radiorobbe) oder [E-Mail](mailto:steffenschultz@mailbox.org). 
 
