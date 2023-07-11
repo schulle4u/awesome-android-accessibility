@@ -385,7 +385,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone)  
   Lizenz: Kostenpflichtig.
 * Record You - Sprach- und Bildschirm-Recorder  
-  Download: [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.bnyro.recorder) oder [GitHub](https://github.com/Bnyro/RecordYou/releases/latest)  
+  Download: [F-droid](https://f-droid.org/de/packages/com.bnyro.recorder/) oder [GitHub](https://github.com/Bnyro/RecordYou/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * ScreenCam - einfacher Bildschirmrecorder  
   Download: [F-Droid](https://f-droid.org/de/packages/com.orpheusdroid.screenrecorder/)  
