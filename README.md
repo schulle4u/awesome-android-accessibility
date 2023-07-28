@@ -740,6 +740,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Tower Collector - Positionen von Sendemasten aufzeichnen und damit Projekten wie OpenCellId und Mozilla Location Services helfen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector) oder [F-Droid](https://f-droid.org/de/packages/info.zamojski.soft.towercollector/)  
   Lizenz: Kostenlos und Open Source.
+* Vernet - Netzwerk-Analyse-Tool.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.fsociety.vernet.store) oder [F-Droid](https://f-droid.org/packages/org.fsociety.vernet)  
+  Lizenz: Kostenlos und Open Source.
 * Vibe - Vibriert am Anfang und Ende eines Anrufs.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=me.lucky.vibe) oder [F-droid](https://f-droid.org/packages/me.lucky.vibe/).  
   Lizenz: Kostenlos und Open Source.
