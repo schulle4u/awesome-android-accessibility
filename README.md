@@ -336,6 +336,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Easy Voice Recorder Pro - Aufnahme-App, bietet umfangreiche Konfigurationsmöglichkeiten, Widgets und Cloud-Upload.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro)  
   Lizenz: Kostenpflichtig, werbefinanzierte Version verfügbar.
+* Gelli - Musik-Player für den Yellyfin-Medienserver.  
+  Download: [F-Droid](https://f-droid.org/packages/com.dkanada.gramophone/) oder [GitHub](https://github.com/dkanada/gelli/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * GoneMAD Music Player - umfangreich anpassbarer Musikplayer.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=gonemad.gmmp), [Unlocker](https://play.google.com/store/apps/details?id=gonemad.gmmp.unlocker)  
   Lizenz: Kostenlose Testversion, Kauf nach 14 Tagen erforderlich.  
