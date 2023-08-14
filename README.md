@@ -411,9 +411,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Storytel - Hörbücher & E-Books im  Streaming-Abo.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=grit.storytel.app)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* Timbre - Audio/Videos schneiden und konvertieren  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=xeus.timbre)  
-  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Timidity AE - MIDI-Player, der die Bibliothek „Timidity++“ verwendet.  
   Download: [F-Droid](https://f-droid.org/packages/com.xperia64.timidityae/)  
   Lizenz: Kostenlos und Open Source.
