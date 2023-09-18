@@ -146,8 +146,8 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * PayPal - einfach Geld senden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)  
   Lizenz: Kostenlos.
-* Postbank Finanzassistent  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.postbank.finanzassistent).  
+* Postbank  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.postbank.banking).  
   Lizenz: Kostenlos.
 * Sparkasse - Ihre mobile Filiale.  
   Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
