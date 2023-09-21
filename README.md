@@ -241,6 +241,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Vocalizer Sprachausgabe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* WeZoom - umfangreich konfigurierbare Lupe.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.stoehr.loviapps.wezoom)  
+  Lizenz: Kostenlos.
 
 
 ## Kommunikation
