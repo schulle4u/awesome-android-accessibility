@@ -184,12 +184,18 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Commentary Screen Reader (Jieshuo) - alternativer Android-Bildschirmleser mit sehr umfangreichen Anpassungsmöglichkeiten. [Deutschsprachige Telegram-Gruppe](https://t.me/commentarydeutsch).  
   Download: [GitHub](https://github.com/nirenr/jieshuo/releases/latest)  
   Lizenz: Kostenlos, Premiumfunktionen beim Entwickler freischaltbar.
+* Earcatch - Audiobeschreibungen für Kino, Fernsehen und Theater  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=nl.q42.soundfocus)  
+  Lizenz: Kostenlos.
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: Kostenlos. 
 * eSpeak-NG - leichtgewichtige Sprachausgabe mit Unterstützung für zahlreiche Sprachen. Achtung, die erste Aktivierung ist etwas knifflig, da erst die Sprachdaten installiert werden müssen und das Gerät daher eventuell nicht spricht.  
   Download: [F-Droid](https://f-droid.org/packages/com.reecedunn.espeak) oder [GitHub](https://github.com/espeak-ng/espeak-ng/releases/latest)  
   Lizenz: Kostenlos und Open Source.
+* Greta - Audiobeschreibungen für Kino und Fernsehen  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.debesefilm.greta)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Legere Scanner - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.voicedream.scanner)  
   Lizenz: Kostenpflichtig.
