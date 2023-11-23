@@ -54,9 +54,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Microsoft Edge  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)  
   Lizenz: Kostenlos.
-* Seren Gemini Browser.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=orllewin.seren).  
-  Lizenz: Kostenpflichtig.
 * Vivaldi - umfangreich konfigurierbarer Browser mit Werbeblocker und Tracking-Schutz  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  
   Lizenz: Kostenlos
