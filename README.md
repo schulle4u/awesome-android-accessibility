@@ -566,9 +566,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * A Western Drama - ein Audiospiel mit einer tiefsinnigen Geschichte, die vom Wilden Westen in Amerika in der Zeit des 19. Jahrhunderts handelt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ThreeBit.AWDEng)  
   Lizenz: Kostenpflichtig
-* Alt-Frequencies - Mystery-Spiel das durch Aufnahme und Übertragung aus Radiosendern gespielt wird  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.accidentalqueens.altfrequenciesandroid)  
-  Lizenz: Kostenpflichtig
 * Antimine - Ein Puzzle-Spiel, in dem du nach allen verborgenen Minen suchst.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato) oder [F-Droid](https://f-droid.org/de/packages/dev.lucanlm.antimine/)  
   Lizenz: Kostenlos und Open Source
