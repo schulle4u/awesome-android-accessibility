@@ -536,6 +536,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Facebook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana)  
   Lizenz: Kostenlos, enthält werbung und bietet In-App-Käufe an.
+* Mastodon - ein dezentrales, soziales Netzwerk  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android) oder [F-Droid](https://f-droid.org/de/packages/org.joinmastodon.android/)  
+  Lizenz: Kostenlos und Open Source.
 * Twitter  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.twitter.android)  
   Lizenz: Kostenlos, enthält Werbung.
