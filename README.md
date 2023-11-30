@@ -363,6 +363,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
+* Little Music Player - Ein Musikspieler, der ausschließlich über die Benachrichtigungsleiste gesteuert wird.  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.martinmimigames.littlemusicplayer/) oder [GitHub](https://github.com/martinmimigames/little-music-player/releases)  
+  Lizenz: Kostenlos und Open Source.
 * Musicolet - Musikplayer mit eigener Format-Engine, der auch ältere Formate wie MP2 abspielen kann.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) oder [Entwickler-Website](https://krosbits.in/musicolet/)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
