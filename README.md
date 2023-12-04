@@ -8,7 +8,7 @@ Status: [![Link Checker](https://github.com/schulle4u/awesome-android-accessibil
 
 Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
 
-Du kannst den [Atom-Feed abonnieren](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom), um über Neueinträge und Änderungen informiert zu bleiben.  
+Neuigkeiten zur App-Liste erhältst du per [Atom-Feed](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom oder im [DroidBlind-WhatsApp-Kanal](https://whatsapp.com/channel/0029VaDJF9N23n3ZhQJ9dL1v).  
 Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
 
 ## Hinweise
