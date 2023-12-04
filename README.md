@@ -220,6 +220,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SecScanQR Der QR-Code-Scanner/Generator, der sich um Privatsphäre kümmert.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.t_dankworth.secscanqr/)  
   Lizenz: Kostenlos und Open Source.
+* Seeing AI - erkennt Personen, Texte und Objekte.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.seeingai)  
+  Lizenz: Kostenlos
 * SmartVoice - automatischer Wechsel der Sprachausgabe durch Erkennung der Eingabesprache, enthält einen Sprachsynthesizer auf Basis von SVox Pico.  
   Download: [Entwickler-Homepage](https://poretsky.github.io/android/smartvoice/)  
   Lizenz: Kostenlos
