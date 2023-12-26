@@ -247,6 +247,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * WeZoom - umfangreich konfigurierbare Lupe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.stoehr.loviapps.wezoom)  
   Lizenz: Kostenlos.
+* Zuzanka - Scanner für Verfallsdaten von Lebensmitteln  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.zuzanka)  
+  Lizenz: Kostenlose Testversion, bietet In-App-Käufe an.
 
 
 ## Kommunikation
