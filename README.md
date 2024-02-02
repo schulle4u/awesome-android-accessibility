@@ -432,9 +432,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Transistor Radio - minimalistische Internetradio-App, speichert eigene Streams und kann bei Bedarf via Radio-Browser nach Sendern suchen.  
   Download: [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor) oder [GitHub](https://github.com/y20k/transistor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
-* TV-Browser vP - TV- und Radioprogrammvorschau  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.tvbrowser.tvbrowser.play)  
-  Lizenz: Kostenlos, bietet In-App-Käufe an.
+* TV-Browser Free - TV- und Radioprogrammvorschau  
+  Download: [GitHub](https://github.com/ds10git/tvbrowserandroid/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * VLC for Android: Der beste Video- und Musikplayer. Schnell und "funktioniert", spielt alles ab  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) oder [F-Droid](https://f-droid.org/de/packages/org.videolan.vlc/)  
   Lizenz: Kostenlos und Open Source.
