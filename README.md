@@ -205,6 +205,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * OneStep Reader - Dokumentenerkennung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sensotec.knfbreader)  
   Lizenz: Kostenpflichtig.
+* Prudence Screen Reader - Alternativer Bildschirmleser, verspricht reaktionsschneller als TalkBack zu sein.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.prudence.reader)  
+  Lizenz: Kostenlos.
 * QR & Barcode Scanner  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.gamma.scan)  
   Lizenz: Kostenlos, enthält Werbung
