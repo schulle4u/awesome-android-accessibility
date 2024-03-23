@@ -657,7 +657,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)  
   Lizenz: Kostenpflichtig.
 * Text Launcher - der wohl kleinstmögliche Android-Launcher, enthält nur eine alphabetische App-Liste.  
-  Download: [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=ademar.textlauncher) oder [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
   Lizenz: Kostenlos und Open Source.
 
 ## Verschiedenes
