@@ -541,6 +541,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * [WalkersGuide](https://www.walkersguide.org) - Fußgängerrouten für Blinde und Sehbehinderte, basierend auf [OpenStreetMap](https://www.openstreetmap.org)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/org.walkersguide.android)  
   Lizenz: Kostenlos und Open Source.
+* WaveOut - räumliche Audionavigation mittels Sound-Cues.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=io.dreamwaves.waveout)  
+  Lizenz: Kostenlos.
 
 
 ## Soziale Medien
