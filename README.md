@@ -683,9 +683,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
   Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
   Lizenz: Kostenlos und Open Source.
-* Copy Share - Text und URLs über das Teilen-Menü in die Zwischenablage kopieren, für Geräte die diese Funktion nicht von Haus aus mitbringen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.robglez.copyshare)  
-  Lizenz: Kostenlos.
 * CPU Info - Informationen über die Hardware und Software des Gerätes  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo) oder [F-Droid](https://f-droid.org/de/packages/com.kgurgul.cpuinfo/)  
   Lizenz: Kostenlos und Open Source.
