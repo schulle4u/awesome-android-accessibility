@@ -333,6 +333,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * BliBu - App der norddeutschen Blindenhörbücherei.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.blindenbuecherei.nbh_app)  
   Lizenz: Kostenlos.
+* CloudBeats - Musikplayer für Cloud-Inhalte auf Dropbox, Google Drive und vielen weiteren Diensten.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.cloudbeats)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Colibrio Reader - ein für TalkBack optimierter eBook-Reader.[^1]  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.colibrio.reader)  
   Lizenz: Kostenlos.
