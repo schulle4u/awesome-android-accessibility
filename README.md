@@ -325,7 +325,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Audio Recorder - Audio-Dateien aufnehmen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) oder [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
   Lizenz: Kostenlos und Open Source.
 * BBH Katalog - App der Bayerischen Hörbücherei für Blinde, Seh- und Lesebeeinträchtigte.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.quickbirdstudios.bbh)  
@@ -369,9 +369,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte im [OpenZim-Format](https://wiki.openzim.org/wiki/OpenZIM)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [F-Droid](https://f-droid.org/de/packages/org.kiwix.kiwixmobile)  
   Lizenz: Kostenlos und Open Source.
-* Legantoo - Verwaltung und Wiedergabe digitaler Medien.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.legantoo)  
-  Lizenz: Kostenlos.
 * Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
@@ -479,7 +476,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Readrops - RSS-Leser für lokale Feeds und Online-Dienste.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.readrops.app) oder [F-droid](https://f-droid.org/de/packages/com.readrops.app)  
+  Download: [F-droid](https://f-droid.org/de/packages/com.readrops.app)  
   Lizenz: Kostenlos und Open Source.
 * Suntimes - detailierte Informationen zu Sonnen- und Mondlicht, bietet Alarmierungen und Widgets an.  
   Download: [F-Droid](https://f-droid.org/de/packages/com.forrestguice.suntimeswidget/)  
@@ -629,9 +626,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ## Systemwerkzeuge
 
-* BaldPhone - Auf ältere und sehbehinderte Menschen ausgerichtete Telefon-Oberfläche.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.bald.uriah.baldphone.gp) oder [F-Droid](https://f-droid.org/de/packages/com.bald.uriah.baldphone/)  
-  Lizenz: Kostenlos und Open Source.
 * Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
   Lizenz: Kostenpflichtig.
@@ -738,7 +732,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
   Lizenz: Kostenlos und Open Source.
 * Notification Notes - Notizen als Benachrichtigung anzeigen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.khuttun.notificationnotes) oder [F-Droid](https://f-droid.org/packages/com.khuttun.notificationnotes/)  
+  Download: [F-Droid](https://f-droid.org/packages/com.khuttun.notificationnotes/)  
   Lizenz: Kostenlos und Open Source.
 * NTFY - Benachrichtigungen via Shell-Scripts auf dem Smartphone empfangen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) oder [F-Droid](https://f-droid.org/de/packages/io.heckel.ntfy/)  
