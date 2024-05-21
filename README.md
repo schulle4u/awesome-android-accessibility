@@ -244,6 +244,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
+* Vocalizer Sprachausgabe.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * WeZoom - umfangreich konfigurierbare Lupe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.stoehr.loviapps.wezoom)  
   Lizenz: Kostenlos.
