@@ -149,6 +149,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Sparkasse - Ihre mobile Filiale.  
   Download via Google Play: [Sparkassen-App](https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus), [S-pushTan-App](https://play.google.com/store/apps/details?id=com.starfinanz.mobile.android.pushtan)  
   Lizenz: Kostenlos, enthält Werbung.
+* Targobank Mobile Banking   
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.targo_prod.bad)  
+  Lizenz: Kostenlos.
 * VR-SecureGo plus - Zahlungen freigeben für Kunden der VR-Banken.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.fiduciagad.securego.vr)  
   Lizenz: Kostenlos.
