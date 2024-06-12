@@ -713,9 +713,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Metronome - einfaches und zuverlässiges Metronom, bietet weitere Anpassungsmöglichkeiten  
   Download: [F-droid](https://f-droid.org/app/com.arnaud.metronome)  
   Lizenz: Kostenlos und Open Source.
-* Narwhal - Android-Client für NVDA Remote.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=im.vortex.narwall)  
-  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * NetMonster - sammelt, zeigt und speichert Informationen über Mobilfunkmasten in der Nähe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster)  
   Lizenz: Kostenlos, teilweise Open Source.
