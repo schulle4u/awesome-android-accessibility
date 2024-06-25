@@ -620,6 +620,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Quinb - ein Mehrspieler-Reaktions- und Logikspiel mit verschiedenen Minispielen, enthält auch diverse Audiospiele.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb) oder [F-Droid](https://f-droid.org/de/packages/xyz.deepdaikon.quinb/)  
   Lizenz: Kostenlos und Open Source.
+* QuizResort - in spannenden Duellen gegen andere Spieler antreten.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.nicojuelich.quizapp)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Sonar Islands - ein ONLINE MULTIPLAYER Spiel, bei dem alle relevanten Dinge in deinen Ohren passieren.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.mentalhome.sonarislands)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
