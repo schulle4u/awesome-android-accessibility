@@ -370,7 +370,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.studio4plus.homerplayer) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/com.studio4plus.homerplayer)  
   Lizenz: Kostenlos und Open Source.
 * Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte im [OpenZim-Format](https://wiki.openzim.org/wiki/OpenZIM)  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [F-Droid](https://f-droid.org/de/packages/org.kiwix.kiwixmobile)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [Entwickler-Website](https://download.kiwix.org/release/kiwix-android/)  
   Lizenz: Kostenlos und Open Source.
 * Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
