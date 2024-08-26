@@ -608,12 +608,18 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Audio Game Hub - verschiedene Arcade-Games in einer App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* ChessBack - Schachanwendung für Anfänger und Profis.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=vnspeak.android.chess)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Enchanted Fortress - eine Burg aufbauen, bewirtschaften und verteidigen.  
   Download: [F-Droid](https://f-droid.org/de/packages/hr.kravarscan.enchantedfortress/)  
   Lizenz: Kostenlos und Open Source
 * Idle Crafting Kingdom - baue Produktionsstätten und sammle Rohstoffe um daraus wertvolle Waren herzustellen!  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.MetalPop.CraftingKingdom)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Mühle  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.calcitem.sanmill)  
+  Lizenz: Kostenlos.
 * Number Guesser - einfaches Zahlenratespiel  
   Download: [F-Droid](https://f-droid.org/de/packages/com.numguesser.tonio_rpchp.numberguesser/)  
   Lizenz: Kostenlos und Open Source
