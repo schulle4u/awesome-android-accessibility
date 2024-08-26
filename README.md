@@ -608,9 +608,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Audio Game Hub - verschiedene Arcade-Games in einer App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* Blind Drive - Autoabenteuer *schwarzer Humor*  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.lofipeople.blinddrive)  
-  Lizenz: Kostenpflichtig
 * Enchanted Fortress - eine Burg aufbauen, bewirtschaften und verteidigen.  
   Download: [F-Droid](https://f-droid.org/de/packages/hr.kravarscan.enchantedfortress/)  
   Lizenz: Kostenlos und Open Source
