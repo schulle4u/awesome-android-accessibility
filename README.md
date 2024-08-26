@@ -767,6 +767,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Really Basic Vocab  - einfache Karteikarten-App.  
   Download: [F-Droid](https://f-droid.org/packages/de.herrmann_engel.rbv/)  
   Lizenz: Kostenlos und Open Source.
+* SD Maid 2 - Systemreiniger  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse) oder [F-Droid](https://f-droid.org/de/packages/eu.darken.sdmse/)  
+  Lizenz: Kostenlos und Open Source, bietet In-App-Käufe an (nur Google Play).
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
