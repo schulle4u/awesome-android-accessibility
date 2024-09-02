@@ -647,6 +647,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
   Lizenz: Kostenpflichtig.
+* Cache Cleaner - bereinigt den Cache aller Apps auf einen Schlag  
+  Download: [F-Droid](https://f-droid.org/packages/com.github.bmx666.appcachecleaner/)  
+  Lizenz: Kostenlos und Open Source.
 * Elder Launcher - für senioren optimierter Launcher.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.arjunsinh.elderlauncher) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/xyz.arjunsinh.elderlauncher)  
   Lizenz: Kostenlos und Open Source.
