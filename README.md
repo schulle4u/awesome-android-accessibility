@@ -387,6 +387,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Legere Reader - eBooks lesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=voicedream.reader)  
   Lizenz: Kostenpflichtig, bietet In-App-Käufe an.
+* Librivox Hörbücher  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=app.librivox.android)  
+  Lizenz: Kostenlos mit Werbung, [kostenpflichtige Version verfügbar](https://play.google.com/store/apps/details?id=biz.bookdesign.librivox.pro)
 * Little Music Player - Ein Musikspieler, der ausschließlich über die Benachrichtigungsleiste gesteuert wird.  
   Download: [F-Droid](https://f-droid.org/de/packages/com.martinmimigames.littlemusicplayer/) oder [GitHub](https://github.com/martinmimigames/little-music-player/releases)  
   Lizenz: Kostenlos und Open Source.
