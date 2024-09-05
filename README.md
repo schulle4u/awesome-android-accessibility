@@ -324,6 +324,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * ARD Audiothek  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
   Lizenz: Kostenlos.
+* ASR-Sprachrekorder  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.nll.asr)  
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Audible - 200.000 Hörbücher, Podcasts & Hörspiele  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.audible.application)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
