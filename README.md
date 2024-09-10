@@ -454,7 +454,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/packages/com.xperia64.timidityae/)  
   Lizenz: Kostenlos und Open Source.
 * Transistor Radio - minimalistische Internetradio-App, speichert eigene Streams und kann bei Bedarf via Radio-Browser nach Sendern suchen.  
-  Download: [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor) oder [GitHub](https://github.com/y20k/transistor/releases/latest)  
+  Download: [F-Droid](https://f-droid.org/de/packages/org.y20k.transistor) oder [Codeberg](https://codeberg.org/y20k/transistor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * TV-Browser Free - TV- und Radioprogrammvorschau  
   Download: [GitHub](https://github.com/ds10git/tvbrowserandroid/releases/latest)  
