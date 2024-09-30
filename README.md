@@ -438,6 +438,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * SoundHound - Musikerkennung was gerade läuft  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier)  
   Lizenz: Kostenpflichtig, werbefinanzierte Version verfügbar.
+* Speech Central - eBook- und Artikelleser  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Spotify: Musik und Podcasts  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)  
   Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
