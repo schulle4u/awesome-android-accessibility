@@ -223,9 +223,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * RHVoice - kostenlose Sprachsynthese für u. a. englisch und russisch, deutsch wird derzeit noch nicht unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android), [F-droid](https://f-droid.org/de/packages/com.github.olga_yakovleva.rhvoice.android/) oder [GitHub](https://github.com/Olga-Yakovleva/RHVoice/blob/master/doc/en/Binaries.md).  
   Lizenz: Kostenlos und Open Source.
-* SAY IT For Alexa - Beliebige Texte an Alexa-Geräte senden, auch als Systemsprachausgabe verwendbar.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.dieterthiess.sayit)  
-  Lizenz: Kostenlos.
 * SecScanQR Der QR-Code-Scanner/Generator, der sich um Privatsphäre kümmert.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.t_dankworth.secscanqr/)  
   Lizenz: Kostenlos und Open Source.
