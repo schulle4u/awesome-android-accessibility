@@ -76,9 +76,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * EZ Notes - mobiler notizblock mit Spracherkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.pristineusa.android.speechtotext)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* iA Writer - Einfach schreiben mit Markdown.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=net.ia.iawriter.x)  
-  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Markor - Markdown-Editor.  
   Download: [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor) oder [GitHub](https://github.com/gsantner/markor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
