@@ -278,9 +278,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Microsoft Outlook  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)  
   Lizenz: Kostenlos, enthält Werbung.
-* QKSMS - alternative SMS-App.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS) oder [F-Droid](https://f-droid.org/de/packages/com.moez.QKSMS).  
-  Lizenz: Kostenlos und Open Source.
 * Satellite - weltweit mobil telefonieren  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.sipgate.app.satellite)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
