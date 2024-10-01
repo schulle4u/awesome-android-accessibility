@@ -387,6 +387,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Little Music Player - Ein Musikspieler, der ausschließlich über die Benachrichtigungsleiste gesteuert wird.  
   Download: [F-Droid](https://f-droid.org/de/packages/com.martinmimigames.littlemusicplayer/) oder [GitHub](https://github.com/martinmimigames/little-music-player/releases)  
   Lizenz: Kostenlos und Open Source.
+* MediaInfo - zeigt technische Informationen zu Audio- und Videodateien an.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.mediaarea.mediainfo)  
+  Lizenz: Kostenlos, bietet In-App-Käufe an.
 * Musicolet - Musikplayer mit eigener Format-Engine, der auch ältere Formate wie MP2 abspielen kann.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) oder [Entwickler-Website](https://krosbits.in/musicolet/)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
