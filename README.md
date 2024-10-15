@@ -441,9 +441,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Spotify: Musik und Podcasts  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)  
   Lizenz: Basisversion ist Kostenlos, Vollversion als In-App-Kauf.
-* SpotiFlyer - Songs und Alben von Spotify, Youtube und weiteren Diensten herunterladen  
-  Download: [F-Droid](https://f-droid.org/de/packages/com.shabinder.spotiflyer/) oder [GitHub](https://github.com/Shabinder/SpotiFlyer/releases/latest)  
-  Lizenz: Kostenlos und Open Source.
 * Storytel - Hörbücher & E-Books im  Streaming-Abo.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=grit.storytel.app)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
