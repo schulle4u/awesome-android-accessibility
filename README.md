@@ -803,9 +803,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * WiFiAnalyzer - zeigt Informationen über WLAN-Netzwerke an.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) oder [F-Droid](https://f-droid.org/de/packages/com.vrem.wifianalyzer/)  
   Lizenz: Kostenlos und Open Source.
-* Zeitansage - sag mir die Zeit  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=TellMeTheTime.App)  
-  Lizenz: Kostenlos.
 * ZUGate - bietet Zugriff auf USB-Laufwerke und Disk-Images mit den Dateisystemen FAT, ExFAT, EXT2/3/4, NTFS, UDF und ISO 9660. Unterstützt verschlüsselte Geräte (Laufwerkschutzformate LUKS 1, LUKS 2, BitLocker, TrueCrypt, EncFS).  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.zdevs.zugate)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
