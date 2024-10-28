@@ -743,12 +743,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Markdownr - Links in Markdown umwandeln und teilen.  
   Download: [F-Droid](https://f-droid.org/packages/com.sanzoghenzo.markdownr/)  
   Lizenz: Kostenlos und Open Source.
-* Metronome - Einfaches Metronom mit Takt- und Tempokonfiguration  
-  Download: [F-Droid](https://f-droid.org/app/com.mustupid.metronome)  
-  Lizenz: Kostenlos und Open Source.
-* Metronome - einfaches und zuverlässiges Metronom, bietet weitere Anpassungsmöglichkeiten  
-  Download: [F-droid](https://f-droid.org/app/com.arnaud.metronome)  
-  Lizenz: Kostenlos und Open Source.
 * NetMonster - sammelt, zeigt und speichert Informationen über Mobilfunkmasten in der Nähe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster)  
   Lizenz: Kostenlos, teilweise Open Source.
