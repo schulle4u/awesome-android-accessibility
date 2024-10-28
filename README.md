@@ -529,9 +529,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * FlixBus - Fernbus durch Europa.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.flixbus.app)  
   Lizenz: Kostenlos.
-* Haltestellenanzeige - Anzeige der Abfahrtszeiten aller Haltestellen in Deutschland (Abfahrtsmonitor).  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.sge.haltestellenanzeige) oder [F-Droid](https://f-droid.org/de/packages/org.sge.haltestellenanzeige/)  
-  Lizenz: Kostenlos und Open Source.
 * LavSeeker - zeigt Toiletten, die in OpenStreetMap eingetragen sind.  
   Download: [F-Droid](https://f-droid.org/packages/org.woheller69.lavatories/)  
   Lizenz: Kostenlos und Open Source.
