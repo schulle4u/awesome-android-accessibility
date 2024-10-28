@@ -755,9 +755,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * NotificationLog - protokolliert Benachrichtigungen  
   Download: [F-Droid](https://f-droid.org/de/packages/de.jl.notificationlog/)  
   Lizenz: Kostenlos und Open Source.
-* Notification Notes - Notizen als Benachrichtigung anzeigen.  
-  Download: [F-Droid](https://f-droid.org/packages/com.khuttun.notificationnotes/)  
-  Lizenz: Kostenlos und Open Source.
 * NTFY - Benachrichtigungen via Shell-Scripts auf dem Smartphone empfangen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) oder [F-Droid](https://f-droid.org/de/packages/io.heckel.ntfy/)  
   Lizenz: Kostenlos und Open Source.
