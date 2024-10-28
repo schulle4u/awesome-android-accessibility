@@ -702,7 +702,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet)  
   Lizenz: Kostenlos.
 * BirthdayDroid - erinnert an Geburtstage von Kontakten.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) oder [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.tmendes.birthdaydroid)  
   Lizenz: Kostenlos und Open Source.
 * CalcKit - Sammlung von Rechnern und Konvertern für Mathematik, Elektronik, Finanzen und mehr.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ivanGavrilov.CalcKit)  
