@@ -58,7 +58,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  
   Lizenz: Kostenlos
 * Xenia - Gemini-Seiten im normalen Webbrowser anzeigen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=space.rocketnine.xenia) oder [F-Droid](https://f-droid.org/packages/space.rocketnine.xenia/).  
+  Download: [F-Droid](https://f-droid.org/packages/space.rocketnine.xenia/).  
   Lizenz: Kostenlos und Open Source.
 
 
