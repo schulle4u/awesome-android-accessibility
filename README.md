@@ -269,9 +269,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Facebook Messenger - Kostenlose Nachrichten und Videoanrufe  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* K-9 Mail - Open-Source-E-Mail-Client.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9) oder [F-Droid](https://f-droid.org/de/packages/com.fsck.k9/)  
-  Lizenz: Kostenlos und Open Source.
 * Linphone - SIP-Telefon  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.linphone) oder [F-Droid](https://f-droid.org/de/packages/org.linphone)  
   Lizenz: Kostenlos und Open Source.
@@ -299,6 +296,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Threema  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ch.threema.app) oder [als APK im Threema-Shop](https://shop.threema.ch/).  
   Lizenz: Kostenpflichtig und teilweise Open Source.
+* Thunderbird - E-Mail-Client   
+  Download: [Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android) oder [F-Droid](https://f-droid.org/de/packages/net.thunderbird.android/)  
+  Lizenz: Kostenlos und Open Source.
 * WhatsApp Messenger  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)  
   Lizenz: Kostenlos, Werbung angekündigt.
