@@ -104,6 +104,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Dropbox  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.dropbox.android)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Fossify File Manager - einfache Verwaltung lokaler Dateien  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager) oder [F-Droid](https://f-droid.org/packages/org.fossify.filemanager)  
+  Lizenz: Kostenlos und Open Source.
 * Microsoft OneDrive - Zugriff auf Dateien in der Microsoft-Cloud.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)  
   Lizenz: Kostenlos, Bietet In-App-Käufe an.
@@ -122,9 +125,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * RCX - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx) oder [F-Droid](https://f-droid.org/de/packages/io.github.x0b.rcx/)  
   Lizenz: Kostenlos und Open Source.
-* Simple File Manager Pro - ein einfacher Dateimanager zum Durchsuchen von lokalen Dateien und Verzeichnissen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) oder [F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/)  
-  Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
 * Total Commander - Datei-Manager  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
   Lizenz: Kostenlos.
