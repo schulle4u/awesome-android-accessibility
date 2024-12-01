@@ -117,7 +117,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client) oder [F-Droid](https://f-droid.org/de/packages/com.nextcloud.client)  
   Lizenz: Kostenlos und Open Source.
 * primitive ftpd - richtet einen FTP- oder SFTP-Server auf dem Gerät ein.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.primftpd) oder [F-Droid](https://f-droid.org/de/packages/org.primftpd/)  
+  Download: [F-Droid](https://f-droid.org/de/packages/org.primftpd/) oder [GitHub](https://github.com/wolpi/prim-ftpd/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * RAR - Dateikomprimierung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.rarlab.rar)  
