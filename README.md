@@ -514,9 +514,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Candle - Turn-by-Turn Navigation für Blinde.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.freegroup.candle)  
   Lizenz: Kostenlos.
-* DB Bahnhof live - Haltestellen- und Bahnhofsinformationen.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschebahn.bahnhoflive)  
-  Lizenz: Kostenlos.
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
   Lizenz: Kostenlos.
