@@ -125,8 +125,8 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * RAR - Dateikomprimierung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.rarlab.rar)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* RCX - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx) oder [F-Droid](https://f-droid.org/de/packages/io.github.x0b.rcx/)  
+* Round Sync - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.felixnuesse.extract/)  
   Lizenz: Kostenlos und Open Source.
 * Total Commander - Datei-Manager  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
