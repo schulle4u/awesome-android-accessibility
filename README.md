@@ -266,6 +266,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Facebook Messenger - Kostenlose Nachrichten und Videoanrufe  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
+* Launch Chat - Erlaubt den Start eines WhatsApp-, Signal- oder Telegram-Chats durch Eingabe der Rufnummer, ohne dass diese in den Kontakten vorhanden sein muss.  
+  Download: [F-Droid](https://f-droid.org/packages/org.vinaygopinath.launchchat) oder [GitHub](https://github.com/vinaygopinath/launch-chat/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Linphone - SIP-Telefon  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.linphone) oder [F-Droid](https://f-droid.org/de/packages/org.linphone)  
   Lizenz: Kostenlos und Open Source.
