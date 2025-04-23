@@ -541,6 +541,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * OsmAnd - Karten und GPS Offline  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.osmand) oder [F-Droid](https://f-droid.org/de/packages/net.osmand.plus/)  
   Lizenz: Kostenpflichtig und Open Source, kostenloser Download via F-Droid.
+* Seeing Assistant GO - Navigations-App als räumliche Orientierungshilfe für Blinde und Sehbehinderte.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=pl.com.tt.SeeingAssistant.go)  
+  Lizenz: Kostenlos.
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
