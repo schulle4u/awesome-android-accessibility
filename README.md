@@ -6,20 +6,21 @@ Status: [![Link Checker](https://github.com/schulle4u/awesome-android-accessibil
 
 ## Einleitung
 
-Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (TalkBack/BrailleBack, Samsung Voice Assistant, Commentary Screen Reader) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
+Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (z. B. TalkBack, Commentary Screen Reader, VoiceView) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
 
 Neuigkeiten zur App-Liste erhältst du per [Atom-Feed](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom) oder im [DroidBlind-WhatsApp-Kanal](https://whatsapp.com/channel/0029VaDJF9N23n3ZhQJ9dL1v).  
 Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
 
 ## Hinweise
 
-1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen zu aktivieren. Diese Einstellung ist jedoch nur in neueren Versionen von TalkBack und des Voice Assistant verfügbar (Ab TalkBack 6, Voice Assistant ab Android 9). 
-2. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nur dort verfügbar sind. Zur Nutzung solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
+1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen   zu aktivieren. Häufig erhalten unbenannte Schaltflächen dadurch eine halbwegs sinnvolle Beschriftung und können ggf. mit eigenen Labels versehen werden. Diese Einstellung ist beispielsweise ab der TalkBack-Version 6 in den Ausführlichkeitseinstellungen des Bildschirmlesers verfügbar, andere Bildschirmleser sollten dies ähnlich handhaben. 
+2. Auf die Zugänglichkeit mittels Braillezeile wird bei der Auswahl der Apps mangels Testmöglichkeit kein besonderer Wert gelegt. Ob eine App auf diese Weise bedient werden kann, muss daher jeder für sich selbst herausfinden. 
+3. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nur dort verfügbar sind. Zur Nutzung solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
     - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
     - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
-3. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
-4. Um tote Links zu vermeiden, prüft ein Linkchecker einmal monatlich, ob die Download-Seiten der jeweiligen Apps noch erreichbar sind, sodass ich sie gegebenenfalls entfernen kann. Eine Prüfung auf Veränderung des Barrierefreiheitszustands ist damit natürlich nicht möglich, zumal ich auch nicht jede App selbst nutze. Wer eine unbedienbar gewordene App findet, kann sie gern bei mir melden, und ich kümmere mich um die Angelegenheit.
-5. Schlussendlich gilt: Eine Nutzung der hier aufgeführten Angebote geschieht auf eigene Verantwortung!
+4. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
+5. Um tote Links zu vermeiden, prüft ein Linkchecker einmal monatlich, ob die Download-Seiten der jeweiligen Apps noch erreichbar sind, sodass ich sie gegebenenfalls entfernen kann. Eine Prüfung auf Veränderung des Barrierefreiheitszustands ist damit natürlich nicht möglich, zumal ich auch nicht jede App selbst nutze. Wer eine unbedienbar gewordene App findet, kann sie gern bei mir melden, und ich kümmere mich um die Angelegenheit.
+6. Schlussendlich gilt: Eine Nutzung der hier aufgeführten Angebote geschieht auf eigene Verantwortung!
 
 ## Inhalt
 
