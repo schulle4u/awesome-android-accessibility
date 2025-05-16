@@ -285,9 +285,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Sipnetic - VoIP-Telefon-App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.sipnetic.app)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
-* Skype - kostenlose Chats und Videoanrufe.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider)  
-  Lizenz: Kostenlos, enthält Werbung.
 * TeamTalk - Server-basierte Sprach- und Videokonferenzen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=dk.bearware.gui) oder [als APK beim Entwickler](https://bearware.dk/?page_id=353)  
   Lizenz: Kostenlos.
