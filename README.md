@@ -679,7 +679,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)  
   Lizenz: Kostenpflichtig.
 * Text Launcher - der wohl kleinstmögliche Android-Launcher, enthält nur eine alphabetische App-Liste.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=ademar.textlauncher) oder [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
+  Download: [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
   Lizenz: Kostenlos und Open Source.
 * YAM Launcher - minimalistischer Textlauncher mit optionaler Wetteranzeige.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.ottop.yamlauncher), [F-Droid](https://f-droid.org/de/packages/eu.ottop.yamlauncher/) oder [Codeberg](https://codeberg.org/ottoptj/yamlauncher/releases/)  
