@@ -534,7 +534,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.oebb)  
   Lizenz: Kostenlos, enthält Werbung.
 * Öffi - Fahrplanauskunft.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi) oder [F-Droid](https://f-droid.org/de/packages/de.schildbach.oeffi/)  
+  Download: [F-Droid](https://f-droid.org/de/packages/de.schildbach.oeffi/)  
   Lizenz: Kostenlos und Open Source.
 * OsmAnd - Karten und GPS Offline  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.osmand) oder [F-Droid](https://f-droid.org/de/packages/net.osmand.plus/)  
