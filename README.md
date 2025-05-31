@@ -182,6 +182,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Be My Eyes - Hilfe für Blinde und Sehbehinderte.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
   Lizenz: Kostenlos.
+* BRLTTY - alternativer Braille-Ausgabedienst  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.a11y.brltty.android)  
+  Lizenz: Kostenlos und Open Source.
 * Cash Reader - Identifizierung von Geldscheinen in verschiedenen Währungen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.martindoudera.cashreader)  
   Lizenz: Kostenlos, In-App-Käufe für vollständige Währungserkennung.
