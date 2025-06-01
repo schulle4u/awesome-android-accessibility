@@ -292,7 +292,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=dk.bearware.gui) oder [als APK beim Entwickler](https://bearware.dk/?page_id=353)  
   Lizenz: Kostenlos.
 * Telegram - eine auf Geschwindigkeit und Sicherheit fokussierte Messaging-App.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)  oder [F-Droid](https://f-droid.org/de/packages/org.telegram.messenger)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)  
   Lizenz: Kostenlos und (teilweise) Open Source).
 * Threema  
   Download: [Google Play](https://play.google.com/store/apps/details?id=ch.threema.app) oder [als APK im Threema-Shop](https://shop.threema.ch/).  
