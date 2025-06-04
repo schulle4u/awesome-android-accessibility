@@ -681,6 +681,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Text Launcher - der wohl kleinstmögliche Android-Launcher, enthält nur eine alphabetische App-Liste.  
   Download: [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/)  
   Lizenz: Kostenlos und Open Source.
+* Whisper - Offline-Spracherkennung basierend auf Whisper, kann auch als Eingabemethode verwendet werden.  
+  Download: [F-Droid](https://f-droid.org/de/packages/org.woheller69.whisper/)  
+  Lizenz: Kostenlos und Open Source.
 * YAM Launcher - minimalistischer Textlauncher mit optionaler Wetteranzeige.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.ottop.yamlauncher), [F-Droid](https://f-droid.org/de/packages/eu.ottop.yamlauncher/) oder [Codeberg](https://codeberg.org/ottoptj/yamlauncher/releases/)  
   Lizenz: Kostenlos und Open Source.
