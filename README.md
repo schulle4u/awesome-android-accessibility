@@ -139,7 +139,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 **Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch muss TalkBack als Systemdienst laufen, und vom Hersteller als Screenreader in den Bedienungshilfen registriert worden sein.
 
 * Banking4 - Universelle Banking-App.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=subsembly.banking
+  Download: [Google Play](https://play.google.com/store/apps/details?id=subsembly.banking)  
   Lizenz: Kostenpflichtig.
 * Buchhaltung CSV - Ein- und Ausgabenverwaltung.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=at.app.aas.csv4accounting)  
