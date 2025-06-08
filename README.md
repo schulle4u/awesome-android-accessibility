@@ -4,26 +4,10 @@ Zusammengestellt von Steffen Schultz.
 
 Status: [![Link Checker](https://github.com/schulle4u/awesome-android-accessibility/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/schulle4u/awesome-android-accessibility/actions/workflows/linkcheck.yml)
 
-## Einleitung
-
-Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (z. B. TalkBack, Commentary Screen Reader, VoiceView) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
-
-Neuigkeiten zur App-Liste erhältst du per [Atom-Feed](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom) oder im [DroidBlind-WhatsApp-Kanal](https://whatsapp.com/channel/0029VaDJF9N23n3ZhQJ9dL1v).  
-Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
-
-## Hinweise
-
-1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen   zu aktivieren. Häufig erhalten unbenannte Schaltflächen dadurch eine halbwegs sinnvolle Beschriftung und können ggf. mit eigenen Labels versehen werden. Diese Einstellung ist beispielsweise ab der TalkBack-Version 6 in den Ausführlichkeitseinstellungen des Bildschirmlesers verfügbar, andere Bildschirmleser sollten dies ähnlich handhaben. 
-2. Auf die Zugänglichkeit mittels Braillezeile wird bei der Auswahl der Apps mangels Testmöglichkeit kein besonderer Wert gelegt. Ob eine App auf diese Weise bedient werden kann, muss daher jeder für sich selbst herausfinden. 
-3. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nur dort verfügbar sind. Zur Nutzung solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
-    - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
-    - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
-4. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
-5. Um tote Links zu vermeiden, prüft ein Linkchecker einmal monatlich, ob die Download-Seiten der jeweiligen Apps noch erreichbar sind, sodass ich sie gegebenenfalls entfernen kann. Eine Prüfung auf Veränderung des Barrierefreiheitszustands ist damit natürlich nicht möglich, zumal ich auch nicht jede App selbst nutze. Wer eine unbedienbar gewordene App findet, kann sie gern bei mir melden, und ich kümmere mich um die Angelegenheit.
-6. Schlussendlich gilt: Eine Nutzung der hier aufgeführten Angebote geschieht auf eigene Verantwortung!
-
 ## Inhalt
 
+- [Einleitung](#einleitung)
+  * [Hinweise](#hinweise)
 - [App-Liste](#app-liste)
   * [Browser](#browser)
   * [Büro](#büro)
@@ -42,9 +26,27 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   * [Verschiedenes](#verschiedenes)
 - [Lizenz](#lizenz)
 
-# App-Liste
+## Einleitung
 
-## Browser
+Diese Liste ist eine Zusammenstellung von Apps und Diensten, welche für blinde und sehbehinderte Android-Anwender nutzbar sind. Alle hier genannten Apps sind gut bis sehr gut mit den gängigen Android-Bildschirmlesern (z. B. TalkBack, Commentary Screen Reader, VoiceView) bedienbar. Die Liste ist in Themengebiete unterteilt. Um schneller zu einem Thema zu gelangen, verwende die Überschriftennavigation deines Browsers.
+
+Neuigkeiten zur App-Liste erhältst du per [Atom-Feed](https://github.com/schulle4u/awesome-android-accessibility/commits/master.atom) oder im [DroidBlind-WhatsApp-Kanal](https://whatsapp.com/channel/0029VaDJF9N23n3ZhQJ9dL1v).  
+Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhinweise](https://github.com/schulle4u/awesome-android-accessibility/blob/master/contributing.md)!
+
+### Hinweise
+
+1. Auch wenn die meisten Apps eine ausreichend gute Zugänglichkeit (Barrierefreiheit) aufweisen, kann es trotzdem ratsam sein, die Ansage der Element-IDs für unbeschriftete Schaltflächen   zu aktivieren. Häufig erhalten unbenannte Schaltflächen dadurch eine halbwegs sinnvolle Beschriftung und können ggf. mit eigenen Labels versehen werden. Diese Einstellung ist beispielsweise ab der TalkBack-Version 6 in den Ausführlichkeitseinstellungen des Bildschirmlesers verfügbar, andere Bildschirmleser sollten dies ähnlich handhaben. 
+2. Auf die Zugänglichkeit mittels Braillezeile wird bei der Auswahl der Apps mangels Testmöglichkeit kein besonderer Wert gelegt. Ob eine App auf diese Weise bedient werden kann, muss daher jeder für sich selbst herausfinden. 
+3. Neben Apps aus dem Play Store werden vereinzelt auch Apps aus anderen Quellen genannt, die nur dort verfügbar sind. Zur Nutzung solcher Apps muss die Installation aus unbekannten Quellen zugelassen werden.
+    - Bis Android 7 findet sich die entsprechende Option in den Sicherheits-Einstellungen des Gerätes.
+    - Ab Android 8 wird die Berechtigung zur Installation beim Ausführen der APK-Datei abgefragt. Bei der Installation des F-Droid-Stores muss daher zunächst dem Chrome-Browser die Berechtigung zur Installation von Apps erteilt werden.
+4. Die umfangreiche Palette der Google-Apps kann grundsätzlich als zugänglich betrachtet werden, daher wird sie hier nicht aufgeführt. Die Liste konzentriert sich, sofern bestimmte Google-Apps keine besondere Relevanz haben, auf Angebote von Drittanbietern.
+5. Um tote Links zu vermeiden, prüft ein Linkchecker einmal monatlich, ob die Download-Seiten der jeweiligen Apps noch erreichbar sind, sodass ich sie gegebenenfalls entfernen kann. Eine Prüfung auf Veränderung des Barrierefreiheitszustands ist damit natürlich nicht möglich, zumal ich auch nicht jede App selbst nutze. Wer eine unbedienbar gewordene App findet, kann sie gern bei mir melden, und ich kümmere mich um die Angelegenheit.
+6. Schlussendlich gilt: Eine Nutzung der hier aufgeführten Angebote geschieht auf eigene Verantwortung!
+
+## App-Liste
+
+### Browser
 
 * Buran - ein Browser für das Gemini-Protokoll.  
   Download: [F-Droid](https://f-droid.org/de/packages/corewala.gemini.buran/) oder [GitHub](https://github.com/Corewala/Buran/releases/latest).  
@@ -63,7 +65,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos und Open Source.
 
 
-## Büro
+### Büro
 
 * Adobe Acrobat Reader - PDF bearbeiten & erstellen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader)  
@@ -97,7 +99,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos, PlayStore-Version enthält Werbung und bietet In-App-Käufe an.
 
 
-## Dateiverwaltung
+### Dateiverwaltung
 
 * Amaze File Manager - lokale Dateien verwalten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)  
@@ -134,7 +136,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 
 
-## Finanzen
+### Finanzen
 
 **Hinweis**: Falls Banking-Apps nicht starten oder unzugänglich erscheinen, sollten alle zusätzlich heruntergeladenen Bedienungshilfen deaktiviert werden (Launcher-Dienste, Virenscanner-Zusätze etc). Auch muss TalkBack als Systemdienst laufen, und vom Hersteller als Screenreader in den Bedienungshilfen registriert worden sein.
 
@@ -164,7 +166,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 
 
-## Gesundheit
+### Gesundheit
 
 * Arznei aktuell.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ifap.arzneiaktuell)  
@@ -174,7 +176,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 
 
-## Hilfsmittel
+### Hilfsmittel
 
 * Acapela TTS Voices  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.acapelagroup.android.tts)  
@@ -259,7 +261,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlose Testversion, bietet In-App-Käufe an.
 
 
-## Kommunikation
+### Kommunikation
 
 * Conversations - Jabber/XMPP-Client.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations) oder [F-Droid](https://f-droid.org/de/packages/eu.siacs.conversations)  
@@ -311,7 +313,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 
 
-## Multimedia
+### Multimedia
 
 * @Voice Aloud Reader - eBooks, Webseiten und E-Mails vorlesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hyperionics.avar)  
@@ -474,7 +476,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos und Open Source.
 
 
-## Nachrichten
+### Nachrichten
 
 * DER SPIEGEL  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.spiegel.android.app.spon)  
@@ -510,7 +512,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.heute.mobile)  
   Lizenz: Kostenlos.
 
-## Navigation und Verkehr
+### Navigation und Verkehr
 
 * Ampel-Pilot - Erkennen von Fußgänger-Ampelphasen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.tensorflow.ampelpilot)  
@@ -556,7 +558,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos.
 
 
-## Soziale Medien
+### Soziale Medien
 
 * AndStatus - Client für GNU social, Mastodon, Twitter und Pump.io.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.andstatus.app) oder [F-Droid](https://f-droid.org/de/packages/org.andstatus.app)  
@@ -577,7 +579,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) oder [F-Droid](https://f-droid.org/de/packages/com.keylesspalace.tusky)  
   Lizenz: Kostenlos und Open Source.
 
-## Shopping
+### Shopping
 
 * Amazon Shopping  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping).  
@@ -598,7 +600,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.picnic.android)  
   Lizenz: Kostenlos.
 
-## Spiele
+### Spiele
 
 * Antimine - Ein Puzzle-Spiel, in dem du nach allen verborgenen Minen suchst.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato) oder [F-Droid](https://f-droid.org/de/packages/dev.lucanlm.antimine/)  
@@ -643,7 +645,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/de/packages/com.github.muellerma.tabletoptools/)  
   Lizenz: Kostenlos und Open Source.
 
-## Systemwerkzeuge
+### Systemwerkzeuge
 
 * Barrierefreie Blinde Tastatur - alternative Tastatur-App, die u. a. auch Doppeltipp-Eingabe unterstützt.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.bright_side.blind_accessibility_keyboard)  
@@ -691,7 +693,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.ottop.yamlauncher), [F-Droid](https://f-droid.org/de/packages/eu.ottop.yamlauncher/) oder [Codeberg](https://codeberg.org/ottoptj/yamlauncher/releases/)  
   Lizenz: Kostenlos und Open Source.
 
-## Verschiedenes
+### Verschiedenes
 
 * Aegis Authenticator - generiert 2FA-Schlüssel (Zwei-Faktor-Authentisierung)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) oder [F-Droid](https://f-droid.org/de/packages/com.beemdevelopment.aegis)  
@@ -799,6 +801,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [Google Play](https://play.google.com/store/apps/details?id=ru.zdevs.zugate)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
 
-# Lizenz
+## Lizenz
 
 Dieses Werk wurde unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/schulle4u/awesome-android-accessibility/blob/master/LICENSE) freigegeben.
