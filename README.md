@@ -595,7 +595,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenlos, enthält Werbung.
 * Einkaufszettel mit Spracheingabe  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabe)  
-  Lizenz: Kostenlos, enthält Werbung, [kostenpflichtige Version ohne werbung verfügbar](https://play.google.com/store/apps/details?id=com.tksolution.einkaufszettelmitspracheingabepro).
+  Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
 * Picnic - Online-Supermarkt  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.picnic.android)  
   Lizenz: Kostenlos.
