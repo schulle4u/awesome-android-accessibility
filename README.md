@@ -782,6 +782,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Riesige digitale Uhr pro  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.cama.app.huge80sclockPro)  
   Lizenz: Kostenpflichtig
+* SpeakThat! - Benachrichtigungsleser mit Fokus auf Anpassung  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.micoyc.speakthat), [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/com.micoyc.speakthat) oder [GitHub](https://github.com/mitchib1440/SpeakThat/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * [Tactile Clock](https://www.eric-scheibler.de/de/blog/2016/05/android-app-tactileclock-vibriert-die-aktuelle-uhrzeit/) - Vibriert die aktuelle Uhrzeit  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.eric_scheibler.tactileclock) oder [Izzys F-Droid-Repository](https://apt.izzysoft.de/fdroid/index/apk/de.eric_scheibler.tactileclock)  
   Lizenz: Kostenlos und Open Source.
