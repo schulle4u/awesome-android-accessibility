@@ -547,6 +547,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Seeing Assistant GO - Navigations-App als räumliche Orientierungshilfe für Blinde und Sehbehinderte.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=pl.com.tt.SeeingAssistant.go)  
   Lizenz: Kostenlos.
+* Soundscape - Navigation mittels 3D-Audio  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=org.scottishtecharmy.soundscape)  
+  Lizenz: Kostenlos und Open Source.
 * The vOICe für Android - wandelt "live" Kamera Bilder in Bild-Geräusche ("soundscapes") um.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=vOICe.vOICe)  
   Lizenz: Kostenlos, enthält Werbung.
