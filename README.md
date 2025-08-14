@@ -333,9 +333,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * AudioLab - All-in-One-App zur Audiobearbeitung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
-* Audio Recorder - Audio-Dateien aufnehmen.  
-  Download: [F-Droid](https://f-droid.org/de/packages/com.github.axet.audiorecorder)  
-  Lizenz: Kostenlos und Open Source.
 * BBH Katalog - App der Bayerischen Hörbücherei für Blinde, Seh- und Lesebeeinträchtigte.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.bbh_ev.android)  
   Lizenz: Kostenlos.
