@@ -514,9 +514,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Ampel-Pilot - Erkennen von Fußgänger-Ampelphasen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.tensorflow.ampelpilot)  
   Lizenz: Kostenlos.
-* Candle - Turn-by-Turn Navigation für Blinde.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=de.freegroup.candle)  
-  Lizenz: Kostenlos.
 * DB Navigator  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.hafas.android.db)  
   Lizenz: Kostenlos.
