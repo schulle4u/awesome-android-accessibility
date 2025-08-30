@@ -713,6 +713,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Camera Folder - Hilfsanwendung, um aus Apps, die das Öffnen von Bild-Dateien unterstützen, ein Bild mit der Kamera aufzunehmen.  
   Download: [F-Droid](https://f-droid.org/packages/de.k3b.android.camerafolder/)  
   Lizenz: Kostenlos und Open Source.
+* Choona - Gitarrentuner mit Unterstützung für individuelle Stimmungen.
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.rohankhayech.choona), [Izzys F-Droid-Repository](https://apt.izzysoft.de/packages/com.rohankhayech.choona) oder [GitHub](https://github.com/rohankhayech/Choona/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * ClassyShark3xodus - Prüft installierte Apps auf sogenannte Tracker zur Verfolgung von Nutzeraktivitäten  
   Download: [F-Droid](https://f-droid.org/de/packages/com.oF2pks.classyshark3xodus)  
   Lizenz: Kostenlos und Open Source.
