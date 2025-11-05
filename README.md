@@ -321,6 +321,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * AntennaPod - Podcasts verwalten und abspielen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
   Lizenz: Kostenlos und Open Source.
+* Anytime Podcast Player  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=uk.me.amugofjava.anytime) oder [F-Droid](https://f-droid.org/de/packages/uk.me.amugofjava.anytime/)  
+  Lizenz: Kostenlos und Open Source.
 * ARD Audiothek  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
   Lizenz: Kostenlos.
