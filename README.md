@@ -348,9 +348,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Colibrio Reader - ein für TalkBack optimierter eBook-Reader.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.colibrio.reader)  
   Lizenz: Kostenlos.
-* Cool Mic - Streaming-Client für Icecast.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=cc.echonet.coolmicapp) oder [F-Droid](https://f-droid.org/en/packages/cc.echonet.coolmicapp/)  
-  Lizenz: Kostenlos und Open Source.
 * DLF Audiothek - Live-Streams und ausgewählte Audiobeiträge der Programme des Deutschlandfunks.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek)  
   Lizenz: Kostenlos.
