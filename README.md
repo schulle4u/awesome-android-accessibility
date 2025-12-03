@@ -199,6 +199,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Earcatch - Audiobeschreibungen für Kino, Fernsehen und Theater  
   Download: [Google Play](https://play.google.com/store/apps/details?id=nl.q42.soundfocus)  
   Lizenz: Kostenlos.
+* Eloquence Text To Speech  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts)  
+  Lizenz: Kostenlose Testversion, bietet In-App-Käufe an.
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: Kostenlos. 
