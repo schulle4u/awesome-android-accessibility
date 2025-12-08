@@ -321,6 +321,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * @Voice Aloud Reader - eBooks, Webseiten und E-Mails vorlesen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hyperionics.avar)  
   Lizenz: Kostenlos, enthält Werbung, [Premiumlizenz verfügbar](https://play.google.com/store/apps/details?id=com.hyperionics.avarLic).
+* 1by1 - Audioplayer auf Verzeichnisebene  
+  Download: [Entwickler-Website](https://mpesch3.de/1by1-android.html)  
+  Lizenz: Kostenlos.
 * AntennaPod - Podcasts verwalten und abspielen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) oder [F-Droid](https://f-droid.org/de/packages/de.danoeh.antennapod)  
   Lizenz: Kostenlos und Open Source.
