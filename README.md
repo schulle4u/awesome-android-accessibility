@@ -82,6 +82,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Joplin - verwaltet Notizen und Aufgaben mit optionaler Synchronisierung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.cozic.joplin) oder [F-Droid](https://f-droid.org/de/packages/net.cozic.joplin/)  
   Lizenz: Kostenlos und Open Source.
+* MakeACopy - OCR Dokumentenscanner  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.schliweb.makeacopy), [F-Droid](https://f-droid.org/de/packages/de.schliweb.makeacopy) oder [GitHub](https://github.com/egdels/makeacopy/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Markor - Markdown-Editor.  
   Download: [F-Droid](https://f-droid.org/de/packages/net.gsantner.markor) oder [GitHub](https://github.com/gsantner/markor/releases/latest)  
   Lizenz: Kostenlos und Open Source.
