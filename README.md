@@ -134,6 +134,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Round Sync - Dateiverwaltung auf Basis von RClone, unterstützt viele Cloud-Anbieter wie Dropbox und Google Drive, aber auch klassisches FTP/SFTP.  
   Download: [F-Droid](https://f-droid.org/de/packages/de.felixnuesse.extract/)  
   Lizenz: Kostenlos und Open Source.
+* RSAF - RClone als Android-Dokument-Provider, erlaubt allen Dateimanagern den Zugriff auf RClone, sofern diese SAF (Storage Access Framework) unterstützen.  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.chiller3.rsaf/) oder [GitHub](https://github.com/chenxiaolong/RSAF/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Total Commander - Datei-Manager  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
   Lizenz: Kostenlos.
