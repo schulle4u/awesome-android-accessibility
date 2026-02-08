@@ -379,8 +379,8 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/packages/com.dkanada.gramophone/) oder [GitHub](https://github.com/dkanada/gelli/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * GoneMAD Music Player - umfangreich anpassbarer Musikplayer.  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=gonemad.gmmp), [Unlocker](https://play.google.com/store/apps/details?id=gonemad.gmmp.unlocker)  
-  Lizenz: Kostenlose Testversion, Kauf nach 14 Tagen erforderlich.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=gonemad.gmmp)  
+  Lizenz: Kostenlos, enthält Werbung.
 * Hi-Q MP3 Recorder  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)  
   Lizenz: Kostenpflichtig.
