@@ -673,6 +673,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Nova Launcher  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)  
   Lizenz: Kostenlos, kostenpflichtige Premiumversion verfügbar.
+* OpenNavBar - Alternative 3-Schaltflächen-Navigationsleiste mit anpassbaren Aktionen  
+  Download: [Izzys F-Droid-Repository](https://apt.izzysoft.de/packages/com.zariep.opennavbar) oder [Codeberg](https://codeberg.org/ItsZariep/OpenNavBar/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * Phone Saver - Dateien über das Teilen-Menü speichern.  
   Download: [F-Droid](https://f-droid.org/de/packages/link.standen.michael.phonesaver/).  
   Lizenz: Kostenlos und Open Source.
