@@ -336,7 +336,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Anytime Podcast Player  
   Download: [Google Play](https://play.google.com/store/apps/details?id=uk.me.amugofjava.anytime) oder [F-Droid](https://f-droid.org/de/packages/uk.me.amugofjava.anytime/)  
   Lizenz: Kostenlos und Open Source.
-* ARD Audiothek  
+* ARD Sounds - Podcasts und Radios der ARD.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.ard.audiothek)  
   Lizenz: Kostenlos.
 * ASR-Sprachrekorder  
