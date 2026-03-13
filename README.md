@@ -259,6 +259,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * TapTapSee - Objekt- und Szenen erkennung  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.msearcher.taptapsee.android).  
   Lizenz: Kostenlos.
+* TGSpeechBox - Formant-Sprachausgabe, basierend auf NV Speech Player für NVDA. 
+  Download: [GitHub, Beta-Releases wählen](https://github.com/tgeczy/TGSpeechBox/releases)  
+  Lizenz: Kostenlos und Open Source.
 * Vocalizer Sprachausgabe.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
