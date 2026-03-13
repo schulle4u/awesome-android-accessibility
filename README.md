@@ -211,7 +211,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Envision AI - erkennt Texte, Szenen, Barcodes und Personen.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.letsenvision.envisionai)  
   Lizenz: Kostenlos. 
-* eSpeak-NG - leichtgewichtige Sprachausgabe mit Unterstützung für zahlreiche Sprachen. Achtung, die erste Aktivierung ist etwas knifflig, da erst die Sprachdaten installiert werden müssen und das Gerät daher eventuell nicht spricht.  
+* eSpeak-NG - leichtgewichtige Sprachausgabe mit Unterstützung für zahlreiche Sprachen. **Hinweis**: Wenn die Sprachausgabe nach der ersten Aktivierung schweigt, sollte der Screenreader über die Bedienungshilfenverknüpfung beendet und neugestartet werden. Commentary und Prudence bringen ihre eigene eSpeak mit, die Verwendung der externen eSpeak kann bei diesen Screenreadern zu problemen führen.  
   Download: [F-Droid](https://f-droid.org/packages/com.reecedunn.espeak) oder [GitHub](https://github.com/espeak-ng/espeak-ng/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Greta - Audiobeschreibungen für Kino und Fernsehen  
