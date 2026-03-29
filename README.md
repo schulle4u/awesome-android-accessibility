@@ -100,6 +100,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * OpenDocumentReader - Lesen und bearbeiten von mit Libre/OpenOffice erstellten Dokumenten, viele weitere Formate können angezeigt werden.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=at.tomtasche.reader) oder [F-Droid](https://f-droid.org/de/packages/at.tomtasche.reader/)  
   Lizenz: Kostenlos, PlayStore-Version enthält Werbung und bietet In-App-Käufe an.
+* Simple Markdown - ein einfacher Markdown-Editor.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.wbrawner.simplemarkdown) oder [F-Droid](https://f-droid.org/packages/com.wbrawner.simplemarkdown.free/)  
+  Lizenz: Kostenlos und Open Source.
 
 
 ### Dateiverwaltung
