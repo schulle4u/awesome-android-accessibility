@@ -366,6 +366,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Colibrio Reader - ein für TalkBack optimierter eBook-Reader.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.colibrio.reader)  
   Lizenz: Kostenlos.
+* Deutsia Radio - Radioplayer mit Fokus auf Datenschutz, unterstützt Clearnet, Tor sowie I2P-Netzwerke.  
+  Download: [F-Droid](https://f-droid.org/de/packages/com.opensource.i2pradio/) oder [GitHub](https://github.com/deutsia/deutsia-radio/releases/latest)  
+  Lizenz: Kostenlos und Open Source.
 * DLF Audiothek - Live-Streams und ausgewählte Audiobeiträge der Programme des Deutschlandfunks.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek)  
   Lizenz: Kostenlos.
