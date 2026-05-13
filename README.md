@@ -532,6 +532,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 
 ### Navigation und Verkehr
 
+* Abfahrt! - findet Haltestellen in der Nähe und zeigt Abfahrtszeiten in Echtzeit an.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=now.abfahrt.app)  
+  Lizenz: Kostenlos.
 * Ampel-Pilot - Erkennen von Fußgänger-Ampelphasen  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.tensorflow.ampelpilot)  
   Lizenz: Kostenlos.
