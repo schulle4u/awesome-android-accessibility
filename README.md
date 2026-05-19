@@ -676,6 +676,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * F-Droid - ein installierbarer Katalog mit FOSS-Apps (Free and Open Source Software) für Android.  
   Download: [Apk auf F-Droid.org](https://f-droid.org/FDroid.apk)  
   Lizenz: Kostenlos und Open Source.
+* Güven Phone - barrierefreie Telefon-App, hat auch ein Wähltasten-Widget für den Startbildschirm.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.guvenapps.guvenphone)  
+  Lizenz: Kostenlos.
 * HeliBoard - anpassbare quelloffene Tastatur.  
   Download: [F-Droid](https://f-droid.org/packages/helium314.keyboard/) oder [GitHub](https://github.com/Helium314/HeliBoard/releases/latest)  
   Lizenz: Kostenlos und Open Source.
