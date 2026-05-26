@@ -141,7 +141,7 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Download: [F-Droid](https://f-droid.org/de/packages/com.chiller3.rsaf/) oder [GitHub](https://github.com/chenxiaolong/RSAF/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Total Commander - Datei-Manager  
-  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander), [F-Droid](https://www.ghisler.com/fdroid.htm) oder [Direkter APK-Download](https://www.ghisler.com/tcandroid3.apk)  
   Lizenz: Kostenlos.
 
 
