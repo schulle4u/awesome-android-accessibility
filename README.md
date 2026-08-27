@@ -387,9 +387,6 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Foldplay - Ordner-basierter Musikplayer.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=net.pnhdroid.foldplay)  
   Lizenz: Kostenlos und Open Source.
-* Gelli - Musik-Player für den Yellyfin-Medienserver.  
-  Download: [F-Droid](https://f-droid.org/packages/com.dkanada.gramophone/) oder [GitHub](https://github.com/dkanada/gelli/releases/latest)  
-  Lizenz: Kostenlos und Open Source.
 * GoneMAD Music Player - umfangreich anpassbarer Musikplayer.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=gonemad.gmmp)  
   Lizenz: Kostenlos, enthält Werbung.
@@ -398,6 +395,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
   Lizenz: Kostenpflichtig.
 * Homer Player - Hörbuch-Player mit sehr einfacher Oberfläche  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.studio4plus.homerplayer) oder [Izzysoft F-Droid-Repo](https://apt.izzysoft.de/fdroid/index/apk/com.studio4plus.homerplayer)  
+  Lizenz: Kostenlos und Open Source.
+* Jamfish - Musik-Player für den Yellyfin-Medienserver.  
+  Download: [F-Droid](https://f-droid.org/de/packages/org.adrianvictor.geleia/) oder [GitHub](https://github.com/adrianvic/jamfish/releases/latest)  
   Lizenz: Kostenlos und Open Source.
 * Kiwix - Offline-Leser für Wikipedia und weitere Webinhalte im [OpenZim-Format](https://wiki.openzim.org/wiki/OpenZIM)  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile) oder [Entwickler-Website](https://download.kiwix.org/release/kiwix-android/)  
