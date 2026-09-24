@@ -628,6 +628,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Audio Game Hub - verschiedene Arcade-Games in einer App.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Chess - Schachprogramm und FICS-Client  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=jwtc.android.chess) oder [F-Droid](https://f-droid.org/de/packages/jwtc.android.chess/)  
+  Lizenz: Kostenlos und Open Source.
 * ChessBack - Schachanwendung für Anfänger und Profis.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=vnspeak.android.chess)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
@@ -652,6 +655,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * QuizResort - in spannenden Duellen gegen andere Spieler antreten.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=com.nicojuelich.quizapp)  
   Lizenz: Kostenlos, enthält Werbung und bietet In-App-Käufe an.
+* Roboyard - ein Denkspiel, bei dem man einen Roboter mit so wenigen Zügen wie möglich ans Ziel bringen muss.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=de.z11.roboyard) oder [F-Droid](https://f-droid.org/de/packages/de.z11.roboyard/)  
+  Lizenz: Kostenlos und Open Source.
 * Sonar Islands - ein ONLINE MULTIPLAYER Spiel, bei dem alle relevanten Dinge in deinen Ohren passieren.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=eu.mentalhome.sonarislands)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
