@@ -429,6 +429,9 @@ Es fehlt eine wichtige App? Kein Problem: [Hier sind die Kriterien und Mitmachhi
 * Odyssey Musikplayer  
   Download: [Google Play](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) oder [F-Droid](https://f-droid.org/de/packages/org.gateshipone.odyssey).  
   Lizenz: Kostenlos und Open Source.
+* Paperback - E-Book- und Dokumentenleser.  
+  Download: [Google Play](https://play.google.com/store/apps/details?id=dev.paperback.android)  
+  Lizenz: Kostenpflichtig und Open Source.
 * Pocket Casts - Podcast-Player.  
   Download: [Google Play](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)  
   Lizenz: Kostenlos, bietet In-App-Käufe an.
